@@ -1,0 +1,788 @@
+Tsmb
+v7
+r0
+t318695736.330903
+cCheck dependencies
+cProcessInfoPlistFile /Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/smb.app/Info.plist EMB-Info.plist
+cCompileXIB /Users/rickwtj/Desktop/EMB/MainWindow.xib
+cCompileXIB /Users/rickwtj/Desktop/EMB/LoginViewController.xib
+cCompileXIB /Users/rickwtj/Desktop/EMB/Classes/MainMenuViewController.xib
+cProcessPCH /var/folders/Hg/HgnMuJi9GSmdYC3SQCw1p++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/smb_Prefix-dmwcigrgxygvosdtxhtvwgcbotwy/smb_Prefix.pch.gch smb_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelVersionCompile /Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/smb.app/smb.momd /Users/rickwtj/Desktop/EMB/smb.xcdatamodeld
+cCompileC build/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/main.o /Users/rickwtj/Desktop/EMB/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/EMBAppDelegate.o /Users/rickwtj/Desktop/EMB/Classes/EMBAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/LoginViewController.o /Users/rickwtj/Desktop/EMB/Classes/LoginViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/MainMenuViewController.o /Users/rickwtj/Desktop/EMB/Classes/MainMenuViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/smb.app/smb normal i386
+cGenerateDSYMFile /Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/smb.app.dSYM /Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/smb.app/smb
+cTouch /Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/smb.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C767A270000000000000132
+t1282832935
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004BFDFEB400000000001CFA90
+t1274937012
+s1899152
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004BFDFEA8000000000000046B
+t1274937000
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004C04586B00000000000000C4
+t1275353195
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004C0458E90000000000151D30
+t1275353321
+s1383728
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h
+c000000004BF4CBF90000000000001A3B
+t1274334201
+s6715
+
+N/Users/rickwtj/Desktop/EMB/Classes/EMBAppDelegate.h
+c000000004D4EB19900000000000003CA
+t1297002905
+s970
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/rickwtj/Desktop/EMB/Classes/EMBAppDelegate.m
+c000000004D4EB1A10000000000001F26
+t1297002913
+s7974
+i"EMBAppDelegate.h"
+i"LoginViewController.h"
+
+N/Users/rickwtj/Desktop/EMB/Classes/LoginViewController.h
+c000000004D4EB1DE0000000000000313
+t1297002974
+s787
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/rickwtj/Desktop/EMB/Classes/LoginViewController.m
+c000000004D4EB19D00000000000009E7
+t1297002909
+s2535
+i"LoginViewController.h"
+i"MainMenuViewController.h"
+i"EMBAppDelegate.h"
+
+N/Users/rickwtj/Desktop/EMB/Classes/MainMenuViewController.h
+c000000004D4E3FCD0000000000000111
+t1296973773
+s273
+i<UIKit/UIKit.h>
+
+N/Users/rickwtj/Desktop/EMB/Classes/MainMenuViewController.m
+c000000004D4E3FEE0000000000000987
+t1296973806
+s2439
+i"MainMenuViewController.h"
+i"LoginViewController.h"
+
+N/Users/rickwtj/Desktop/EMB/Classes/MainMenuViewController.xib
+c000000004D4E3FC3000000000000498E
+t1296973763
+s18830
+
+N/Users/rickwtj/Desktop/EMB/Classes/smbAppDelegate.h
+c000000004D4668E400000000000003CA
+t1296460004
+s970
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/rickwtj/Desktop/EMB/Classes/smbAppDelegate.m
+c000000004D4E2C970000000000001F26
+t1296968855
+s7974
+i"smbAppDelegate.h"
+i"LoginViewController.h"
+
+N/Users/rickwtj/Desktop/EMB/LoginViewController.xib
+c000000004D4E62D60000000000007EB1
+t1296982742
+s32433
+
+N/Users/rickwtj/Desktop/EMB/MainWindow.xib
+c000000004D4EB1960000000000005F70
+t1297002902
+s24432
+
+N/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/EMB.app
+t2
+s0
+
+N/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/EMB.app.dSYM
+t2
+s0
+
+N/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/EMB.app/EMB
+t2
+s0
+
+N/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/EMB.app/Info.plist
+t2
+s0
+
+N/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/EMB.app/LoginViewController.nib
+t2
+s0
+
+N/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/EMB.app/MainMenuViewController.nib
+t2
+s0
+
+N/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/EMB.app/MainWindow.nib
+t2
+s0
+
+N/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/EMB.app/PkgInfo
+t2
+s0
+
+N/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/EMB.app/smb.momd
+t2
+s0
+
+N/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/smb.app
+t1297002936
+s306
+
+N/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/smb.app.dSYM
+t1297002936
+s102
+
+N/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/smb.app/Info.plist
+t1296968835
+s575
+
+N/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/smb.app/LoginViewController.nib
+t1296982746
+s2791
+
+N/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/smb.app/MainMenuViewController.nib
+t1296973764
+s1396
+
+N/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/smb.app/MainWindow.nib
+t1297002933
+s1530
+
+N/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/smb.app/PkgInfo
+t1296968835
+s8
+
+N/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/smb.app/smb
+t1297002936
+s30512
+
+N/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/smb.app/smb.momd
+t1296968838
+s136
+
+N/Users/rickwtj/Desktop/EMB/build/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/EMB.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/rickwtj/Desktop/EMB/build/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/EMBAppDelegate.o
+t1297002935
+s60880
+
+N/Users/rickwtj/Desktop/EMB/build/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/LoginViewController.o
+t1297002935
+s48952
+
+N/Users/rickwtj/Desktop/EMB/build/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/MainMenuViewController.o
+t1297002935
+s39360
+
+N/Users/rickwtj/Desktop/EMB/build/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/main.o
+t1297002935
+s6280
+
+N/Users/rickwtj/Desktop/EMB/build/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/smb.LinkFileList
+c000000004D4EB1B400000000000001C3
+t1297002932
+s451
+
+N/Users/rickwtj/Desktop/EMB/build/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/smbAppDelegate.o
+t1296981990
+s60880
+
+N/Users/rickwtj/Desktop/EMB/main.m
+c000000004D3FC5440000000000000166
+t1296024900
+s358
+i<UIKit/UIKit.h>
+
+N/Users/rickwtj/Desktop/EMB/smb.xcdatamodeld
+c000000004D3FC5440000000000000088
+t1296024900
+s136
+
+N/Users/rickwtj/Desktop/EMB/smb_Prefix.pch
+c000000004D3FC544000000000000015B
+t1296024900
+s347
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/rickwtj/Desktop/smb/Classes/LoginViewController.h
+c000000004D4E5FE50000000000000313
+t1296981989
+s787
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/rickwtj/Desktop/smb/Classes/LoginViewController.m
+c000000004D4E632300000000000009E7
+t1296982819
+s2535
+i"LoginViewController.h"
+i"MainMenuViewController.h"
+i"smbAppDelegate.h"
+
+N/Users/rickwtj/Desktop/smb/Classes/MainMenuViewController.h
+c000000004D4E3FCD0000000000000111
+t1296973773
+s273
+i<UIKit/UIKit.h>
+
+N/Users/rickwtj/Desktop/smb/Classes/MainMenuViewController.m
+c000000004D4E3FEE0000000000000987
+t1296973806
+s2439
+i"MainMenuViewController.h"
+i"LoginViewController.h"
+
+N/Users/rickwtj/Desktop/smb/Classes/MainMenuViewController.xib
+c000000004D4E3FC3000000000000498E
+t1296973763
+s18830
+
+N/Users/rickwtj/Desktop/smb/Classes/MainViewController.h
+c000000004D4E259A0000000000000107
+t1296967066
+s263
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/rickwtj/Desktop/smb/Classes/MainViewController.m
+c000000004D4E24A300000000000000FB
+t1296966819
+s251
+i"MainViewController.h"
+i"smbAppDelegate.h"
+
+N/Users/rickwtj/Desktop/smb/Classes/RootViewController.h
+c000000004D466AEC0000000000000107
+t1296460524
+s263
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/rickwtj/Desktop/smb/Classes/RootViewController.m
+c000000004D466BD400000000000000FD
+t1296460756
+s253
+i"RootViewController.h"
+i"smbAppDelegate.h"
+
+N/Users/rickwtj/Desktop/smb/Classes/smbAppDelegate.h
+c000000004D4668E400000000000003CA
+t1296460004
+s970
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/rickwtj/Desktop/smb/Classes/smbAppDelegate.m
+c000000004D4E2C970000000000001F26
+t1296968855
+s7974
+i"smbAppDelegate.h"
+i"LoginViewController.h"
+
+N/Users/rickwtj/Desktop/smb/LoginViewController.xib
+c000000004D4E62D60000000000007EB1
+t1296982742
+s32433
+
+N/Users/rickwtj/Desktop/smb/MainViewController.xib
+c000000004D4E25B60000000000004D53
+t1296967094
+s19795
+
+N/Users/rickwtj/Desktop/smb/MainWindow.xib
+c000000004D4E25CE0000000000005FD7
+t1296967118
+s24535
+
+N/Users/rickwtj/Desktop/smb/RootViewController.xib
+c000000004D4E23660000000000004CDC
+t1296966502
+s19676
+
+N/Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator/smb.app
+t1296982747
+s306
+
+N/Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator/smb.app.dSYM
+t1296982747
+s102
+
+N/Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator/smb.app/Info.plist
+t1296968835
+s575
+
+N/Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator/smb.app/LoginViewController.nib
+t1296982746
+s2791
+
+N/Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator/smb.app/MainMenuViewController.nib
+t1296973764
+s1396
+
+N/Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator/smb.app/MainViewController.nib
+t1296967067
+s1559
+
+N/Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator/smb.app/MainWindow.nib
+t1296968836
+s1530
+
+N/Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator/smb.app/PkgInfo
+t1296968835
+s8
+
+N/Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator/smb.app/RootViewController.nib
+t1296966223
+s1542
+
+N/Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator/smb.app/smb
+t1296982747
+s30512
+
+N/Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator/smb.app/smb.momd
+t1296968838
+s136
+
+N/Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/LoginViewController.o
+t1296982747
+s48952
+
+N/Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/MainMenuViewController.o
+t1296981990
+s39360
+
+N/Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/MainViewController.o
+t1296967067
+s5156
+
+N/Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/RootViewController.o
+t1296460757
+s5156
+
+N/Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/main.o
+t1296968838
+s6280
+
+N/Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/smb.LinkFileList
+c000000004D4E374000000000000001C3
+t1296971584
+s451
+
+N/Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/smbAppDelegate.o
+t1296981990
+s60880
+
+N/Users/rickwtj/Desktop/smb/main.m
+c000000004D3FC5440000000000000166
+t1296024900
+s358
+i<UIKit/UIKit.h>
+
+N/Users/rickwtj/Desktop/smb/smb.xcdatamodeld
+c000000004D3FC5440000000000000088
+t1296024900
+s136
+
+N/Users/rickwtj/Desktop/smb/smb_Prefix.pch
+c000000004D3FC544000000000000015B
+t1296024900
+s347
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/var/folders/Hg/HgnMuJi9GSmdYC3SQCw1p++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/smb_Prefix-dmwcigrgxygvosdtxhtvwgcbotwy/smb_Prefix.pch.gch
+t1297002934
+s16097072
+
+N/var/folders/Hg/HgnMuJi9GSmdYC3SQCw1p++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/smb_Prefix-etrrcahmplngqabzrjqrzidpvjjm/smb_Prefix.pch.gch
+t1296968838
+s16097072
+
+NEMB-Info.plist
+c000000004D3FC544000000000000038D
+t1296024900
+s909
+
+Nsmb-Info.plist
+c000000004D3FC544000000000000038D
+t1296024900
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318695732#318695732#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/EMBAppDelegate.o /Users/rickwtj/Desktop/EMB/Classes/EMBAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318695734.770820
+e318695735.221323
+r1
+xCompileC
+xbuild/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/EMBAppDelegate.o
+x/Users/rickwtj/Desktop/EMB/Classes/EMBAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/rickwtj/Desktop/EMB/Classes/EMBAppDelegate.m318695734#318695735#0(0"0(0#0#51"/Users/rickwtj/Desktop/EMB/Classes/EMBAppDelegate.m8639757056#1717"    cd /Users/rickwtj/Desktop/EMB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/rickwtj/Desktop/EMB/build/smb.build/Debug-iphonesimulator/smb.build/smb-generated-files.hmap -I/Users/rickwtj/Desktop/EMB/build/smb.build/Debug-iphonesimulator/smb.build/smb-own-target-headers.hmap -I/Users/rickwtj/Desktop/EMB/build/smb.build/Debug-iphonesimulator/smb.build/smb-all-target-headers.hmap -iquote /Users/rickwtj/Desktop/EMB/build/smb.build/Debug-iphonesimulator/smb.build/smb-project-headers.hmap -F/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator -I/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/include -I/Users/rickwtj/Desktop/EMB/build/smb.build/Debug-iphonesimulator/smb.build/DerivedSources/i386 -I/Users/rickwtj/Desktop/EMB/build/smb.build/Debug-iphonesimulator/smb.build/DerivedSources -include /var/folders/Hg/HgnMuJi9GSmdYC3SQCw1p++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/smb_Prefix-dmwcigrgxygvosdtxhtvwgcbotwy/smb_Prefix.pch -c /Users/rickwtj/Desktop/EMB/Classes/EMBAppDelegate.m -o /Users/rickwtj/Desktop/EMB/build/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/EMBAppDelegate.o0#
+
+CCompileC build/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/LoginViewController.o /Users/rickwtj/Desktop/EMB/Classes/LoginViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318695735.098676
+e318695735.334839
+r1
+xCompileC
+xbuild/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/LoginViewController.o
+x/Users/rickwtj/Desktop/EMB/Classes/LoginViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/rickwtj/Desktop/EMB/Classes/LoginViewController.m318695735#318695735#0(0"0(0#0#56"/Users/rickwtj/Desktop/EMB/Classes/LoginViewController.m8599489344#1727"    cd /Users/rickwtj/Desktop/EMB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/rickwtj/Desktop/EMB/build/smb.build/Debug-iphonesimulator/smb.build/smb-generated-files.hmap -I/Users/rickwtj/Desktop/EMB/build/smb.build/Debug-iphonesimulator/smb.build/smb-own-target-headers.hmap -I/Users/rickwtj/Desktop/EMB/build/smb.build/Debug-iphonesimulator/smb.build/smb-all-target-headers.hmap -iquote /Users/rickwtj/Desktop/EMB/build/smb.build/Debug-iphonesimulator/smb.build/smb-project-headers.hmap -F/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator -I/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/include -I/Users/rickwtj/Desktop/EMB/build/smb.build/Debug-iphonesimulator/smb.build/DerivedSources/i386 -I/Users/rickwtj/Desktop/EMB/build/smb.build/Debug-iphonesimulator/smb.build/DerivedSources -include /var/folders/Hg/HgnMuJi9GSmdYC3SQCw1p++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/smb_Prefix-dmwcigrgxygvosdtxhtvwgcbotwy/smb_Prefix.pch -c /Users/rickwtj/Desktop/EMB/Classes/LoginViewController.m -o /Users/rickwtj/Desktop/EMB/build/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/LoginViewController.o0#
+
+CCompileC build/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/LoginViewController.o /Users/rickwtj/Desktop/smb/Classes/LoginViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318675546.927129
+e318675547.038044
+r1
+xCompileC
+xbuild/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/LoginViewController.o
+x/Users/rickwtj/Desktop/smb/Classes/LoginViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/rickwtj/Desktop/smb/Classes/LoginViewController.m318675546#318675547#0(0"0(0#0#56"/Users/rickwtj/Desktop/smb/Classes/LoginViewController.m8611244224#1727"    cd /Users/rickwtj/Desktop/smb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/smb-generated-files.hmap -I/Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/smb-own-target-headers.hmap -I/Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/smb-all-target-headers.hmap -iquote /Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/smb-project-headers.hmap -F/Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator -I/Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator/include -I/Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/DerivedSources/i386 -I/Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/DerivedSources -include /var/folders/Hg/HgnMuJi9GSmdYC3SQCw1p++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/smb_Prefix-etrrcahmplngqabzrjqrzidpvjjm/smb_Prefix.pch -c /Users/rickwtj/Desktop/smb/Classes/LoginViewController.m -o /Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/LoginViewController.o0#
+
+CCompileC build/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/MainMenuViewController.o /Users/rickwtj/Desktop/EMB/Classes/MainMenuViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318695735.221435
+e318695735.317920
+r1
+xCompileC
+xbuild/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/MainMenuViewController.o
+x/Users/rickwtj/Desktop/EMB/Classes/MainMenuViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/rickwtj/Desktop/EMB/Classes/MainMenuViewController.m318695735#318695735#0(0"0(0#0#59"/Users/rickwtj/Desktop/EMB/Classes/MainMenuViewController.m8643766944#1733"    cd /Users/rickwtj/Desktop/EMB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/rickwtj/Desktop/EMB/build/smb.build/Debug-iphonesimulator/smb.build/smb-generated-files.hmap -I/Users/rickwtj/Desktop/EMB/build/smb.build/Debug-iphonesimulator/smb.build/smb-own-target-headers.hmap -I/Users/rickwtj/Desktop/EMB/build/smb.build/Debug-iphonesimulator/smb.build/smb-all-target-headers.hmap -iquote /Users/rickwtj/Desktop/EMB/build/smb.build/Debug-iphonesimulator/smb.build/smb-project-headers.hmap -F/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator -I/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/include -I/Users/rickwtj/Desktop/EMB/build/smb.build/Debug-iphonesimulator/smb.build/DerivedSources/i386 -I/Users/rickwtj/Desktop/EMB/build/smb.build/Debug-iphonesimulator/smb.build/DerivedSources -include /var/folders/Hg/HgnMuJi9GSmdYC3SQCw1p++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/smb_Prefix-dmwcigrgxygvosdtxhtvwgcbotwy/smb_Prefix.pch -c /Users/rickwtj/Desktop/EMB/Classes/MainMenuViewController.m -o /Users/rickwtj/Desktop/EMB/build/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/MainMenuViewController.o0#
+
+CCompileC build/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/MainMenuViewController.o /Users/rickwtj/Desktop/smb/Classes/MainMenuViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318674790.688198
+e318674790.767480
+r1
+xCompileC
+xbuild/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/MainMenuViewController.o
+x/Users/rickwtj/Desktop/smb/Classes/MainMenuViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/rickwtj/Desktop/smb/Classes/MainMenuViewController.m318674790#318674790#0(0"0(0#0#59"/Users/rickwtj/Desktop/smb/Classes/MainMenuViewController.m8613529632#1733"    cd /Users/rickwtj/Desktop/smb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/smb-generated-files.hmap -I/Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/smb-own-target-headers.hmap -I/Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/smb-all-target-headers.hmap -iquote /Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/smb-project-headers.hmap -F/Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator -I/Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator/include -I/Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/DerivedSources/i386 -I/Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/DerivedSources -include /var/folders/Hg/HgnMuJi9GSmdYC3SQCw1p++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/smb_Prefix-etrrcahmplngqabzrjqrzidpvjjm/smb_Prefix.pch -c /Users/rickwtj/Desktop/smb/Classes/MainMenuViewController.m -o /Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/MainMenuViewController.o0#
+
+CCompileC build/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/MainViewController.o /Users/rickwtj/Desktop/smb/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318659867.114143
+e318659867.264088
+r1
+xCompileC
+xbuild/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/MainViewController.o
+x/Users/rickwtj/Desktop/smb/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/rickwtj/Desktop/smb/Classes/MainViewController.m318659867#318659867#0(0"0(0#0#55"/Users/rickwtj/Desktop/smb/Classes/MainViewController.m8644288384#1725"    cd /Users/rickwtj/Desktop/smb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/smb-generated-files.hmap -I/Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/smb-own-target-headers.hmap -I/Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/smb-all-target-headers.hmap -iquote /Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/smb-project-headers.hmap -F/Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator -I/Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator/include -I/Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/DerivedSources/i386 -I/Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/DerivedSources -include /var/folders/Hg/HgnMuJi9GSmdYC3SQCw1p++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/smb_Prefix-etrrcahmplngqabzrjqrzidpvjjm/smb_Prefix.pch -c /Users/rickwtj/Desktop/smb/Classes/MainViewController.m -o /Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/MainViewController.o0#
+
+CCompileC build/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/RootViewController.o /Users/rickwtj/Desktop/smb/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318153557.249221
+e318153557.332691
+r1
+xCompileC
+xbuild/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/RootViewController.o
+x/Users/rickwtj/Desktop/smb/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/rickwtj/Desktop/smb/Classes/RootViewController.m318153557#318153557#0(0"0(0#0#55"/Users/rickwtj/Desktop/smb/Classes/RootViewController.m8614558688#1725"    cd /Users/rickwtj/Desktop/smb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/smb-generated-files.hmap -I/Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/smb-own-target-headers.hmap -I/Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/smb-all-target-headers.hmap -iquote /Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/smb-project-headers.hmap -F/Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator -I/Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator/include -I/Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/DerivedSources/i386 -I/Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/DerivedSources -include /var/folders/Hg/HgnMuJi9GSmdYC3SQCw1p++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/smb_Prefix-etrrcahmplngqabzrjqrzidpvjjm/smb_Prefix.pch -c /Users/rickwtj/Desktop/smb/Classes/RootViewController.m -o /Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/main.o /Users/rickwtj/Desktop/EMB/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318695734.769590
+e318695735.098577
+r1
+xCompileC
+xbuild/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/main.o
+x/Users/rickwtj/Desktop/EMB/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Compile /Users/rickwtj/Desktop/EMB/main.m318695734#318695735#0(0"0(0#0#33"/Users/rickwtj/Desktop/EMB/main.m8641282048#1689"    cd /Users/rickwtj/Desktop/EMB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/rickwtj/Desktop/EMB/build/smb.build/Debug-iphonesimulator/smb.build/smb-generated-files.hmap -I/Users/rickwtj/Desktop/EMB/build/smb.build/Debug-iphonesimulator/smb.build/smb-own-target-headers.hmap -I/Users/rickwtj/Desktop/EMB/build/smb.build/Debug-iphonesimulator/smb.build/smb-all-target-headers.hmap -iquote /Users/rickwtj/Desktop/EMB/build/smb.build/Debug-iphonesimulator/smb.build/smb-project-headers.hmap -F/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator -I/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/include -I/Users/rickwtj/Desktop/EMB/build/smb.build/Debug-iphonesimulator/smb.build/DerivedSources/i386 -I/Users/rickwtj/Desktop/EMB/build/smb.build/Debug-iphonesimulator/smb.build/DerivedSources -include /var/folders/Hg/HgnMuJi9GSmdYC3SQCw1p++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/smb_Prefix-dmwcigrgxygvosdtxhtvwgcbotwy/smb_Prefix.pch -c /Users/rickwtj/Desktop/EMB/main.m -o /Users/rickwtj/Desktop/EMB/build/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/main.o0#
+
+CCompileC build/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/main.o /Users/rickwtj/Desktop/smb/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318661638.197856
+e318661638.276726
+r1
+xCompileC
+xbuild/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/main.o
+x/Users/rickwtj/Desktop/smb/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Compile /Users/rickwtj/Desktop/smb/main.m318661638#318661638#0(0"0(0#0#33"/Users/rickwtj/Desktop/smb/main.m8640040800#1689"    cd /Users/rickwtj/Desktop/smb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/smb-generated-files.hmap -I/Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/smb-own-target-headers.hmap -I/Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/smb-all-target-headers.hmap -iquote /Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/smb-project-headers.hmap -F/Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator -I/Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator/include -I/Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/DerivedSources/i386 -I/Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/DerivedSources -include /var/folders/Hg/HgnMuJi9GSmdYC3SQCw1p++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/smb_Prefix-etrrcahmplngqabzrjqrzidpvjjm/smb_Prefix.pch -c /Users/rickwtj/Desktop/smb/main.m -o /Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/main.o0#
+
+CCompileC build/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/smbAppDelegate.o /Users/rickwtj/Desktop/EMB/Classes/smbAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/smbAppDelegate.o /Users/rickwtj/Desktop/smb/Classes/smbAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318674790.567872
+e318674790.688094
+r1
+xCompileC
+xbuild/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/smbAppDelegate.o
+x/Users/rickwtj/Desktop/smb/Classes/smbAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/rickwtj/Desktop/smb/Classes/smbAppDelegate.m318674790#318674790#0(0"0(0#0#51"/Users/rickwtj/Desktop/smb/Classes/smbAppDelegate.m8612498656#1717"    cd /Users/rickwtj/Desktop/smb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/smb-generated-files.hmap -I/Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/smb-own-target-headers.hmap -I/Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/smb-all-target-headers.hmap -iquote /Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/smb-project-headers.hmap -F/Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator -I/Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator/include -I/Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/DerivedSources/i386 -I/Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/DerivedSources -include /var/folders/Hg/HgnMuJi9GSmdYC3SQCw1p++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/smb_Prefix-etrrcahmplngqabzrjqrzidpvjjm/smb_Prefix.pch -c /Users/rickwtj/Desktop/smb/Classes/smbAppDelegate.m -o /Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/smbAppDelegate.o0#
+
+CCompileXIB /Users/rickwtj/Desktop/EMB/Classes/MainMenuViewController.xib
+r0
+
+CCompileXIB /Users/rickwtj/Desktop/EMB/LoginViewController.xib
+r0
+
+CCompileXIB /Users/rickwtj/Desktop/EMB/MainWindow.xib
+s318695732.484544
+e318695733.224341
+r1
+xCompileXIB
+x/Users/rickwtj/Desktop/EMB/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib318695732#318695733#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#41"/Users/rickwtj/Desktop/EMB/MainWindow.xib29555289171492912#530"    cd /Users/rickwtj/Desktop/EMB    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/smb.app/MainWindow.nib /Users/rickwtj/Desktop/EMB/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/rickwtj/Desktop/smb/Classes/MainMenuViewController.xib
+s318666564.604082
+e318666565.169541
+r1
+xCompileXIB
+x/Users/rickwtj/Desktop/smb/Classes/MainMenuViewController.xib
+lSLF07#2@45"CompileXIB Classes/MainMenuViewController.xib318666564#318666565#0(0"0(0#0#61"/Users/rickwtj/Desktop/smb/Classes/MainMenuViewController.xib8611076992#562"    cd /Users/rickwtj/Desktop/smb    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator/smb.app/MainMenuViewController.nib /Users/rickwtj/Desktop/smb/Classes/MainMenuViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/rickwtj/Desktop/smb/LoginViewController.xib
+s318675546.429865
+e318675546.926683
+r1
+xCompileXIB
+x/Users/rickwtj/Desktop/smb/LoginViewController.xib
+lSLF07#2@34"CompileXIB LoginViewController.xib318675546#318675546#0(0"0(0#0#50"/Users/rickwtj/Desktop/smb/LoginViewController.xib8610721088#548"    cd /Users/rickwtj/Desktop/smb    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator/smb.app/LoginViewController.nib /Users/rickwtj/Desktop/smb/LoginViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/rickwtj/Desktop/smb/MainViewController.xib
+s318659866.609948
+e318659867.109858
+r1
+xCompileXIB
+x/Users/rickwtj/Desktop/smb/MainViewController.xib
+lSLF07#2@33"CompileXIB MainViewController.xib318659866#318659867#0(0"0(0#0#49"/Users/rickwtj/Desktop/smb/MainViewController.xib8603532992#546"    cd /Users/rickwtj/Desktop/smb    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator/smb.app/MainViewController.nib /Users/rickwtj/Desktop/smb/MainViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/rickwtj/Desktop/smb/MainWindow.xib
+s318661635.883573
+e318661636.805217
+r1
+xCompileXIB
+x/Users/rickwtj/Desktop/smb/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib318661635#318661636#0(0"0(0#0#41"/Users/rickwtj/Desktop/smb/MainWindow.xib8635133472#530"    cd /Users/rickwtj/Desktop/smb    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator/smb.app/MainWindow.nib /Users/rickwtj/Desktop/smb/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/rickwtj/Desktop/smb/RootViewController.xib
+s318659011.857971
+e318659024.012907
+r1
+xCompileXIB
+x/Users/rickwtj/Desktop/smb/RootViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@33"CompileXIB RootViewController.xib318659011#318659024#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#49"/Users/rickwtj/Desktop/smb/RootViewController.xib31244199161626672#546"    cd /Users/rickwtj/Desktop/smb    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator/smb.app/RootViewController.nib /Users/rickwtj/Desktop/smb/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CDataModelVersionCompile /Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/EMB.app/smb.momd /Users/rickwtj/Desktop/EMB/smb.xcdatamodeld
+r0
+
+CDataModelVersionCompile /Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/smb.app/smb.momd /Users/rickwtj/Desktop/EMB/smb.xcdatamodeld
+r0
+
+CDataModelVersionCompile /Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator/smb.app/smb.momd /Users/rickwtj/Desktop/smb/smb.xcdatamodeld
+s318661638.197022
+e318661638.492191
+r1
+xDataModelVersionCompile
+x/Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator/smb.app/smb.momd
+x/Users/rickwtj/Desktop/smb/smb.xcdatamodeld
+lSLF07#2@85"DataModelVersionCompile build/Debug-iphonesimulator/smb.app/smb.momd smb.xcdatamodeld318661638#318661638#0(0"0(0#0#43"/Users/rickwtj/Desktop/smb/smb.xcdatamodeld8641404320#338"    cd /Users/rickwtj/Desktop/smb    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 /Users/rickwtj/Desktop/smb/smb.xcdatamodeld /Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator/smb.app/smb.momd0#
+
+CGenerateDSYMFile /Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/EMB.app.dSYM /Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/EMB.app/EMB
+r0
+
+CGenerateDSYMFile /Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/smb.app.dSYM /Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/smb.app/smb
+s318695736.209042
+e318695736.327231
+r1
+xGenerateDSYMFile
+x/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/smb.app.dSYM
+x/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/smb.app/smb
+lSLF07#2@97"GenerateDSYMFile build/Debug-iphonesimulator/smb.app.dSYM build/Debug-iphonesimulator/smb.app/smb318695736#318695736#0(0"0(0#0#66"/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/smb.app/smb8636169760#335"    cd /Users/rickwtj/Desktop/EMB    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/smb.app/smb -o /Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/smb.app.dSYM0#
+
+CGenerateDSYMFile /Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator/smb.app.dSYM /Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator/smb.app/smb
+s318675547.145323
+e318675547.192958
+r1
+xGenerateDSYMFile
+x/Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator/smb.app.dSYM
+x/Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator/smb.app/smb
+lSLF07#2@97"GenerateDSYMFile build/Debug-iphonesimulator/smb.app.dSYM build/Debug-iphonesimulator/smb.app/smb318675547#318675547#0(0"0(0#0#66"/Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator/smb.app/smb8621002240#335"    cd /Users/rickwtj/Desktop/smb    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator/smb.app/smb -o /Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator/smb.app.dSYM0#
+
+CLd /Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/EMB.app/EMB normal i386
+r0
+
+CLd /Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/smb.app/smb normal i386
+s318695735.334936
+e318695736.208921
+r1
+xLd
+x/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/smb.app/smb
+xnormal
+xi386
+lSLF07#2@71"Link /Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/smb.app/smb318695735#318695736#0(0"0(0#0#0"8643104832#862"    cd /Users/rickwtj/Desktop/EMB    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator -F/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator -filelist /Users/rickwtj/Desktop/EMB/build/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/smb.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -framework QuartzCore -o /Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/smb.app/smb0#
+
+CLd /Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator/smb.app/smb normal i386
+s318675547.038158
+e318675547.145218
+r1
+xLd
+x/Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator/smb.app/smb
+xnormal
+xi386
+lSLF07#2@71"Link /Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator/smb.app/smb318675547#318675547#0(0"0(0#0#0"8611055488#862"    cd /Users/rickwtj/Desktop/smb    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator -F/Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator -filelist /Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/Objects-normal/i386/smb.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -framework QuartzCore -o /Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator/smb.app/smb0#
+
+CProcessInfoPlistFile /Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/EMB.app/Info.plist EMB-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/smb.app/Info.plist EMB-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/smb.app/Info.plist smb-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator/smb.app/Info.plist smb-Info.plist
+s318661635.826431
+e318661635.883463
+r1
+xProcessInfoPlistFile
+x/Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator/smb.app/Info.plist
+xsmb-Info.plist
+lSLF07#2@22"Process smb-Info.plist318661635#318661635#0(0"0(0#0#41"/Users/rickwtj/Desktop/smb/smb-Info.plist8626233408#431"    cd /Users/rickwtj/Desktop/smb    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility smb-Info.plist -genpkginfo /Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator/smb.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator/smb.app/Info.plist0#
+
+CProcessPCH /var/folders/Hg/HgnMuJi9GSmdYC3SQCw1p++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/smb_Prefix-dmwcigrgxygvosdtxhtvwgcbotwy/smb_Prefix.pch.gch smb_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s318695733.224631
+e318695734.769315
+r1
+xProcessPCH
+x/var/folders/Hg/HgnMuJi9GSmdYC3SQCw1p++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/smb_Prefix-dmwcigrgxygvosdtxhtvwgcbotwy/smb_Prefix.pch.gch
+xsmb_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@25"Precompile smb_Prefix.pch318695733#318695734#0(0"0(0#0#41"/Users/rickwtj/Desktop/EMB/smb_Prefix.pch8644065056#1597"    cd /Users/rickwtj/Desktop/EMB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/rickwtj/Desktop/EMB/build/smb.build/Debug-iphonesimulator/smb.build/smb-generated-files.hmap -I/Users/rickwtj/Desktop/EMB/build/smb.build/Debug-iphonesimulator/smb.build/smb-own-target-headers.hmap -I/Users/rickwtj/Desktop/EMB/build/smb.build/Debug-iphonesimulator/smb.build/smb-all-target-headers.hmap -iquote /Users/rickwtj/Desktop/EMB/build/smb.build/Debug-iphonesimulator/smb.build/smb-project-headers.hmap -F/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator -I/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/include -I/Users/rickwtj/Desktop/EMB/build/smb.build/Debug-iphonesimulator/smb.build/DerivedSources/i386 -I/Users/rickwtj/Desktop/EMB/build/smb.build/Debug-iphonesimulator/smb.build/DerivedSources -c /Users/rickwtj/Desktop/EMB/smb_Prefix.pch -o /var/folders/Hg/HgnMuJi9GSmdYC3SQCw1p++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/smb_Prefix-dmwcigrgxygvosdtxhtvwgcbotwy/smb_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Hg/HgnMuJi9GSmdYC3SQCw1p++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/smb_Prefix-etrrcahmplngqabzrjqrzidpvjjm/smb_Prefix.pch.gch smb_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s318661636.935355
+e318661638.196833
+r1
+xProcessPCH
+x/var/folders/Hg/HgnMuJi9GSmdYC3SQCw1p++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/smb_Prefix-etrrcahmplngqabzrjqrzidpvjjm/smb_Prefix.pch.gch
+xsmb_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@25"Precompile smb_Prefix.pch318661636#318661638#0(0"0(0#0#41"/Users/rickwtj/Desktop/smb/smb_Prefix.pch8635131776#1597"    cd /Users/rickwtj/Desktop/smb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/smb-generated-files.hmap -I/Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/smb-own-target-headers.hmap -I/Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/smb-all-target-headers.hmap -iquote /Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/smb-project-headers.hmap -F/Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator -I/Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator/include -I/Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/DerivedSources/i386 -I/Users/rickwtj/Desktop/smb/build/smb.build/Debug-iphonesimulator/smb.build/DerivedSources -c /Users/rickwtj/Desktop/smb/smb_Prefix.pch -o /var/folders/Hg/HgnMuJi9GSmdYC3SQCw1p++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/smb_Prefix-etrrcahmplngqabzrjqrzidpvjjm/smb_Prefix.pch.gch0#
+
+CTouch /Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/EMB.app
+r0
+
+CTouch /Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/smb.app
+s318695736.327418
+e318695736.330801
+r1
+xTouch
+x/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/smb.app
+lSLF07#2@68"Touch /Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/smb.app318695736#318695736#0(0"0(0#0#0"8633317920#250"    cd /Users/rickwtj/Desktop/EMB    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/smb.app0#
+
+CTouch /Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator/smb.app
+s318675547.193050
+e318675547.197719
+r1
+xTouch
+x/Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator/smb.app
+lSLF07#2@68"Touch /Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator/smb.app318675547#318675547#0(0"0(0#0#0"8620990624#250"    cd /Users/rickwtj/Desktop/smb    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/rickwtj/Desktop/smb/build/Debug-iphonesimulator/smb.app0#
+
