@@ -1,39 +1,39 @@
 TEMB
 v7
 r0
-t331117175.777554
+t331359029.259504
 cCheck dependencies
-cProcessInfoPlistFile /Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/EMB.app/Info.plist EMB-Info.plist
-cCompileXIB /Users/rickwtj/Desktop/EMB/MainWindow.xib
-cCompileXIB /Users/rickwtj/Desktop/EMB/LoginViewController.xib
-cCompileXIB /Users/rickwtj/Desktop/EMB/Classes/studentViewController.xib
-cCompileXIB /Users/rickwtj/Desktop/EMB/Classes/BoardsViewController.xib
-cCompileXIB /Users/rickwtj/Desktop/EMB/Classes/psbViewController.xib
+cProcessInfoPlistFile /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/EMB.app/Info.plist EMB-Info.plist
+cCompileXIB /Users/Edgar/Programming/github/EMB-Mobilised/EMB/MainWindow.xib
+cCompileXIB /Users/Edgar/Programming/github/EMB-Mobilised/EMB/LoginViewController.xib
+cCompileXIB /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/studentViewController.xib
+cCompileXIB /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/BoardsViewController.xib
+cCompileXIB /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/psbViewController.xib
 cCpResource build/Debug-iphonesimulator/EMB.app/HCI.png HCI.png
 cCpResource build/Debug-iphonesimulator/EMB.app/Hwa_Chong_Institution_Logo.png Hwa_Chong_Institution_Logo.png
-cCompileXIB /Users/rickwtj/Desktop/EMB/Classes/studentMessage.xib
+cCompileXIB /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/studentMessage.xib
 cCpResource build/Debug-iphonesimulator/EMB.app/iPhoneArrow.png iPhoneArrow.png
-cProcessPCH /var/folders/Hg/HgnMuJi9GSmdYC3SQCw1p++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EMB_Prefix-gzyfipbyzhclwnfokgdwnxfufrck/EMB_Prefix.pch.gch EMB_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cDataModelVersionCompile /Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/EMB.app/smb.momd /Users/rickwtj/Desktop/EMB/smb.xcdatamodeld
-cCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/main.o /Users/rickwtj/Desktop/EMB/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/EMBAppDelegate.o /Users/rickwtj/Desktop/EMB/Classes/EMBAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/LoginViewController.o /Users/rickwtj/Desktop/EMB/Classes/LoginViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/studentViewController.o /Users/rickwtj/Desktop/EMB/Classes/studentViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/BoardsViewController.o /Users/rickwtj/Desktop/EMB/Classes/BoardsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/psbViewController.o /Users/rickwtj/Desktop/EMB/Classes/psbViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/studentMessageViewController.o /Users/rickwtj/Desktop/EMB/Classes/studentMessageViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIAuthenticationDialog.o /Users/rickwtj/Desktop/EMB/Classes/ASIAuthenticationDialog.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIDataCompressor.o /Users/rickwtj/Desktop/EMB/Classes/ASIDataCompressor.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIDataDecompressor.o /Users/rickwtj/Desktop/EMB/Classes/ASIDataDecompressor.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIDownloadCache.o /Users/rickwtj/Desktop/EMB/Classes/ASIDownloadCache.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIFormDataRequest.o /Users/rickwtj/Desktop/EMB/Classes/ASIFormDataRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIHTTPRequest.o /Users/rickwtj/Desktop/EMB/Classes/ASIHTTPRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIInputStream.o /Users/rickwtj/Desktop/EMB/Classes/ASIInputStream.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASINetworkQueue.o /Users/rickwtj/Desktop/EMB/Classes/ASINetworkQueue.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/Reachability.o /Users/rickwtj/Desktop/EMB/Reachability.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/EMB.app/EMB normal i386
-cGenerateDSYMFile /Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/EMB.app.dSYM /Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/EMB.app/EMB
-cTouch /Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/EMB.app
+cProcessPCH /var/folders/uj/ujG41M3hG1COwdItvqJYr++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EMB_Prefix-hgpuyjwxtsousqbxtpxidoyvugzh/EMB_Prefix.pch.gch EMB_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelVersionCompile /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/EMB.app/smb.momd /Users/Edgar/Programming/github/EMB-Mobilised/EMB/smb.xcdatamodeld
+cCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/main.o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/EMBAppDelegate.o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/EMBAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/LoginViewController.o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/LoginViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/studentViewController.o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/studentViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/BoardsViewController.o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/BoardsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/psbViewController.o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/psbViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/studentMessageViewController.o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/studentMessageViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIAuthenticationDialog.o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIAuthenticationDialog.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIDataCompressor.o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIDataCompressor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIDataDecompressor.o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIDataDecompressor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIDownloadCache.o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIDownloadCache.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIFormDataRequest.o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIFormDataRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIHTTPRequest.o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIHTTPRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIInputStream.o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIInputStream.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASINetworkQueue.o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASINetworkQueue.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/Reachability.o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Reachability.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/EMB.app/EMB normal i386
+cGenerateDSYMFile /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/EMB.app.dSYM /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/EMB.app/EMB
+cTouch /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/EMB.app
 
 N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
 c000000004C767A270000000000000132
@@ -194,6 +194,605 @@ N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0
 c000000004AD4F6ED0000000000005D2C
 t1255470829
 s23852
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004D54CF7C00000000001C41F0
+t1297403772
+s1851888
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h
+c000000004D54CF5900000000000004CF
+t1297403737
+s1231
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004D54D02800000000001D6EC0
+t1297403944
+s1928896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004D54D01A000000000000046B
+t1297403930
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004D54CEB40000000000000AB3
+t1297403572
+s2739
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/MobileCoreServices.framework/Headers/MobileCoreServices.h
+c000000004D54D0BA00000000000000EB
+t1297404090
+s235
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000004D54D0BC000000000005C090
+t1297404092
+s376976
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004D54D2DD00000000000000C4
+t1297404637
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004D54D4200000000000162C50
+t1297404960
+s1453136
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SystemConfiguration.h
+c000000004D54CEF80000000000001A58
+t1297403640
+s6744
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004D54CF0700000000000689C0
+t1297403655
+s428480
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/CommonCrypto/CommonHMAC.h
+c000000004A11E8210000000000000DE2
+t1242687521
+s3554
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/arpa/inet.h
+c000000004D54C5040000000000001533
+t1297401092
+s5427
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/ifaddrs.h
+c000000004D54C50400000000000008F5
+t1297401092
+s2293
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/netdb.h
+c000000004D54C504000000000000307F
+t1297401092
+s12415
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/netinet/in.h
+c000000004D54D0E60000000000006BAC
+t1297404134
+s27564
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/netinet6/in6.h
+c000000004D54D0E6000000000000638F
+t1297404134
+s25487
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/stdio.h
+c000000004D4F6E9A0000000000004763
+t1297051290
+s18275
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/sys/socket.h
+c000000004D54D0EB0000000000005ACF
+t1297404139
+s23247
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/zlib.h
+c000000004D54CB4600000000000102A5
+t1297402694
+s66213
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/lib/libz.1.2.3.dylib
+c000000004D54CB4700000000000123C0
+t1297402695
+s74688
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIAuthenticationDialog.h
+c000000004E0C3D970000000000000453
+t1309425047
+s1107
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIAuthenticationDialog.m
+c000000004E0C3D970000000000003DF0
+t1309425047
+s15856
+i"ASIAuthenticationDialog.h"
+i"ASIHTTPRequest.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASICacheDelegate.h
+c000000004E0C3D97000000000000141F
+t1309425047
+s5151
+i<Foundation/Foundation.h>
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIDataCompressor.h
+c000000004E0C3D97000000000000072C
+t1309425047
+s1836
+i<Foundation/Foundation.h>
+i<zlib.h>
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIDataCompressor.m
+c000000004E0C3D970000000000001A4A
+t1309425047
+s6730
+i"ASIDataCompressor.h"
+i"ASIHTTPRequest.h"
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIDataDecompressor.h
+c000000004E0C3D9700000000000006A3
+t1309425047
+s1699
+i<Foundation/Foundation.h>
+i<zlib.h>
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIDataDecompressor.m
+c000000004E0C3D970000000000001906
+t1309425047
+s6406
+i"ASIDataDecompressor.h"
+i"ASIHTTPRequest.h"
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIDownloadCache.h
+c000000004E0C3D9700000000000006CD
+t1309425047
+s1741
+i<Foundation/Foundation.h>
+i"ASICacheDelegate.h"
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIDownloadCache.m
+c000000004E0C3D970000000000004314
+t1309425047
+s17172
+i"ASIDownloadCache.h"
+i"ASIHTTPRequest.h"
+i<CommonCrypto/CommonHMAC.h>
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIFormDataRequest.h
+c000000004E0C3D970000000000000A85
+t1309425047
+s2693
+i<Foundation/Foundation.h>
+i"ASIHTTPRequest.h"
+i"ASIHTTPRequestConfig.h"
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIFormDataRequest.m
+c000000004E0C3D970000000000002BDD
+t1309425047
+s11229
+i"ASIFormDataRequest.h"
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIHTTPRequest.h
+c000000004E0C3D97000000000000AEB6
+t1309425047
+s44726
+i<Foundation/Foundation.h>
+i<CFNetwork/CFNetwork.h>
+i<UIKit/UIKit.h>
+i<stdio.h>
+i"ASIHTTPRequestConfig.h"
+i"ASIHTTPRequestDelegate.h"
+i"ASIProgressDelegate.h"
+i"ASICacheDelegate.h"
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIHTTPRequest.m
+c000000004E0C3D97000000000002C678
+t1309425047
+s181880
+i"ASIHTTPRequest.h"
+i"Reachability.h"
+i"ASIAuthenticationDialog.h"
+i<MobileCoreServices/MobileCoreServices.h>
+i<SystemConfiguration/SystemConfiguration.h>
+i"ASIInputStream.h"
+i"ASIDataDecompressor.h"
+i"ASIDataCompressor.h"
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIHTTPRequestConfig.h
+c000000004E0C3D970000000000000478
+t1309425047
+s1144
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIHTTPRequestDelegate.h
+c000000004E0C3D97000000000000063E
+t1309425047
+s1598
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIInputStream.h
+c000000004E0C3D9700000000000003C9
+t1309425047
+s969
+i<Foundation/Foundation.h>
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIInputStream.m
+c000000004E0C3D970000000000000C14
+t1309425047
+s3092
+i"ASIInputStream.h"
+i"ASIHTTPRequest.h"
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASINetworkQueue.h
+c000000004E0C3D97000000000000120D
+t1309425047
+s4621
+i<Foundation/Foundation.h>
+i"ASIHTTPRequestDelegate.h"
+i"ASIProgressDelegate.h"
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASINetworkQueue.m
+c000000004E0C3D970000000000002C8D
+t1309425047
+s11405
+i"ASINetworkQueue.h"
+i"ASIHTTPRequest.h"
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIProgressDelegate.h
+c000000004E0C3D970000000000000678
+t1309425047
+s1656
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/BoardsViewController.h
+c000000004E0C3D97000000000000017A
+t1309425047
+s378
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/BoardsViewController.m
+c000000004E0C3D97000000000000113F
+t1309425047
+s4415
+i"BoardsViewController.h"
+i"studentViewController.h"
+i"LoginViewController.h"
+i"psbViewController.h"
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/BoardsViewController.xib
+c000000004E0C3D970000000000008034
+t1309425047
+s32820
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/EMBAppDelegate.h
+c000000004E0C3D9900000000000003CA
+t1309425049
+s970
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/EMBAppDelegate.m
+c000000004E0C3D970000000000001F26
+t1309425047
+s7974
+i"EMBAppDelegate.h"
+i"LoginViewController.h"
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/LoginViewController.h
+c000000004E0F6BD50000000000000352
+t1309633493
+s850
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/LoginViewController.m
+c000000004E0F6CB30000000000000E87
+t1309633715
+s3719
+i"LoginViewController.h"
+i"studentViewController.h"
+i"EMBAppDelegate.h"
+i"BoardsViewController.h"
+i"ASIFormDataRequest.h"
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/psbViewController.h
+c000000004E0C3D970000000000000109
+t1309425047
+s265
+i<UIKit/UIKit.h>
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/psbViewController.m
+c000000004E0C3D9700000000000009B6
+t1309425047
+s2486
+i"psbViewController.h"
+i"studentViewController.h"
+i"LoginViewController.h"
+i"BoardsViewController.h"
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/psbViewController.xib
+c000000004E0C3D970000000000004E95
+t1309425047
+s20117
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/studentMessage.xib
+c000000004E0C3D9700000000000056E1
+t1309425047
+s22241
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/studentMessageViewController.h
+c000000004E0C3D970000000000000197
+t1309425047
+s407
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/studentMessageViewController.m
+c000000004E0C3D970000000000000AE5
+t1309425047
+s2789
+i"studentMessageViewController.h"
+i"studentViewController.h"
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/studentViewController.h
+c000000004E0C3D9700000000000002D9
+t1309425047
+s729
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+i"studentMessageViewController.h"
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/studentViewController.m
+c000000004E0C3D97000000000000162E
+t1309425047
+s5678
+i"studentViewController.h"
+i"LoginViewController.h"
+i"BoardsViewController.h"
+i"studentMessageViewController.h"
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/studentViewController.xib
+c000000004E0C3D970000000000005BBC
+t1309425047
+s23484
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/EMB_Prefix.pch
+c000000004E0C3D97000000000000015B
+t1309425047
+s347
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/HCI.png
+c000000004E0C3D9900000000000035AE
+t1309425049
+s13742
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Hwa_Chong_Institution_Logo.png
+c000000004E0C3D9700000000000035AE
+t1309425047
+s13742
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/LoginViewController.xib
+c000000004E0C3D970000000000008904
+t1309425047
+s35076
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/MainWindow.xib
+c000000004E0C3D970000000000005F70
+t1309425047
+s24432
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Reachability.h
+c000000004E0C3D970000000000001D0E
+t1309425047
+s7438
+i<Foundation/Foundation.h>
+i<SystemConfiguration/SystemConfiguration.h>
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Reachability.m
+c000000004E0C3D970000000000005E0C
+t1309425047
+s24076
+i<sys/socket.h>
+i<netinet/in.h>
+i<netinet6/in6.h>
+i<arpa/inet.h>
+i<ifaddrs.h>
+i<netdb.h>
+i<CoreFoundation/CoreFoundation.h>
+i"Reachability.h"
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/EMB.app
+t1309666229
+s578
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/EMB.app.dSYM
+t1309666229
+s102
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/EMB.app/BoardsViewController.nib
+t1309425047
+s2894
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/EMB.app/EMB
+t1309666229
+s422740
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/EMB.app/HCI.png
+t1309614054
+s13742
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/EMB.app/Hwa_Chong_Institution_Logo.png
+t1309425047
+s13742
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/EMB.app/Info.plist
+t1309614054
+s575
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/EMB.app/LoginViewController.nib
+t1309425047
+s3091
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/EMB.app/MainWindow.nib
+t1309425047
+s1530
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/EMB.app/PkgInfo
+t1309614054
+s8
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/EMB.app/iPhoneArrow.png
+t1309614054
+s3009
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/EMB.app/psbViewController.nib
+t1309425047
+s1155
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/EMB.app/smb.momd
+t1309424555
+s136
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/EMB.app/studentMessage.nib
+t1309425047
+s1293
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/EMB.app/studentViewController.nib
+t1309425047
+s1464
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIAuthenticationDialog.o
+t1309614484
+s108620
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIDataCompressor.o
+t1309614484
+s23348
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIDataDecompressor.o
+t1309614484
+s23308
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIDownloadCache.o
+t1309614484
+s60080
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIFormDataRequest.o
+t1309614484
+s47960
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIHTTPRequest.o
+t1309614485
+s513016
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIInputStream.o
+t1309614484
+s29104
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASINetworkQueue.o
+t1309614484
+s61500
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/BoardsViewController.o
+t1309633494
+s46808
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/EMB.LinkFileList
+c000000004E0F1FE6000000000000089F
+t1309614054
+s2207
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/EMBAppDelegate.o
+t1309633494
+s64416
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/LoginViewController.o
+t1309666228
+s70580
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/Reachability.o
+t1309614484
+s33756
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/main.o
+t1309614483
+s6332
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/psbViewController.o
+t1309633494
+s42468
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/studentMessageViewController.o
+t1309614483
+s46728
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/studentViewController.o
+t1309633494
+s54276
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/iPhoneArrow.png
+c000000004E0C3D990000000000000BC1
+t1309425049
+s3009
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/main.m
+c000000004E0C3D970000000000000166
+t1309425047
+s358
+i<UIKit/UIKit.h>
+
+N/Users/Edgar/Programming/github/EMB-Mobilised/EMB/smb.xcdatamodeld
+c000000004E0C3BAB0000000000000088
+t1309424555
+s136
+
+N/Users/Edgar/Programming/github/GHUnitIOS.framework/GHUnitIOS
+c000000004D436AEB000000000021365C
+t1296263915
+s2176604
 
 N/Users/rickwtj/Desktop/EMB-1/Classes/BoardsViewController.h
 c000000004DEE3FB3000000000000017A
@@ -1861,9 +2460,9 @@ i<UIKit/UIKit.h>
 i<CoreData/CoreData.h>
 
 N/Users/rickwtj/Downloads/GHUnitIOS.framework/GHUnitIOS
-c000000004D436AE6000000000021365C
-t1296263910
-s2176604
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/rickwtj/Downloads/GHUnitIOS.framework/Headers/GHAsyncTestCase.h
 c000000004D436AE6000000000000118F
@@ -2293,14 +2892,22 @@ N/var/folders/Hg/HgnMuJi9GSmdYC3SQCw1p++++TI/-Caches-/com.apple.Xcode.501/Shared
 t1297003506
 s16097072
 
+N/var/folders/uj/ujG41M3hG1COwdItvqJYr++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EMB_Prefix-aycvdpakfqobobhcyhaxejhmptrf/EMB_Prefix.pch.gch
+t1309614054
+s16679120
+
+N/var/folders/uj/ujG41M3hG1COwdItvqJYr++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EMB_Prefix-hgpuyjwxtsousqbxtpxidoyvugzh/EMB_Prefix.pch.gch
+t1309614483
+s16679120
+
 NEMB-Info.plist
-c000000004D3FC544000000000000038D
-t1296024900
+c000000004E0C3D99000000000000038D
+t1309425049
 s909
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies331117172#331117172#0(0"0(0#1#0"3343187568374212096#0"0#
+lSLF07#2@18"Check dependencies331359026#331359026#0(0"0(0#1#0"3343187568374212096#0"0#
 
 CCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIAuthenticationDialog.o "/Users/rickwtj/Desktop/EMB/../../Downloads/pokeb-asi-http-request-1710da9 2/Classes/ASIAuthenticationDialog.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s331114200.743497
@@ -2314,6 +2921,19 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@117"Compile /Users/rickwtj/Desktop/EMB/../../Downloads/pokeb-asi-http-request-1710da9 2/Classes/ASIAuthenticationDialog.m331114200#331114201#0(0"0(0#0#109"/Users/rickwtj/Desktop/EMB/../../Downloads/pokeb-asi-http-request-1710da9 2/Classes/ASIAuthenticationDialog.m8620986208#1884"    cd /Users/rickwtj/Desktop/EMB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-generated-files.hmap -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-own-target-headers.hmap -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-all-target-headers.hmap -iquote /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-project-headers.hmap -F/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator -F/Users/rickwtj/Desktop/EMB/../../Downloads -I/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources/i386 -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources -include /var/folders/Hg/HgnMuJi9GSmdYC3SQCw1p++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EMB_Prefix-gzyfipbyzhclwnfokgdwnxfufrck/EMB_Prefix.pch -c "/Users/rickwtj/Desktop/EMB/../../Downloads/pokeb-asi-http-request-1710da9 2/Classes/ASIAuthenticationDialog.m" -o /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIAuthenticationDialog.o0#
+
+CCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIAuthenticationDialog.o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIAuthenticationDialog.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s331307283.861253
+e331307284.053428
+r1
+xCompileC
+xbuild/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIAuthenticationDialog.o
+x/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIAuthenticationDialog.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIAuthenticationDialog.m331307283#331307284#0(0"0(0#0#83"/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIAuthenticationDialog.m8608996512#2242"    cd /Users/Edgar/Programming/github/EMB-Mobilised/EMB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-generated-files.hmap -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-own-target-headers.hmap -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-all-target-headers.hmap -iquote /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-project-headers.hmap -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/../../Downloads -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/../.. -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources/i386 -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources -include /var/folders/uj/ujG41M3hG1COwdItvqJYr++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EMB_Prefix-hgpuyjwxtsousqbxtpxidoyvugzh/EMB_Prefix.pch -c /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIAuthenticationDialog.m -o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIAuthenticationDialog.o0#
 
 CCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIAuthenticationDialog.o /Users/rickwtj/Desktop/EMB/Classes/ASIAuthenticationDialog.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s331117172.506315
@@ -2580,6 +3200,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@111"Compile /Users/rickwtj/Desktop/EMB/../../Downloads/pokeb-asi-http-request-1710da9 2/Classes/ASIDataCompressor.m331114201#331114201#0(0"0(0#0#103"/Users/rickwtj/Desktop/EMB/../../Downloads/pokeb-asi-http-request-1710da9 2/Classes/ASIDataCompressor.m8614297728#1872"    cd /Users/rickwtj/Desktop/EMB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-generated-files.hmap -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-own-target-headers.hmap -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-all-target-headers.hmap -iquote /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-project-headers.hmap -F/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator -F/Users/rickwtj/Desktop/EMB/../../Downloads -I/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources/i386 -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources -include /var/folders/Hg/HgnMuJi9GSmdYC3SQCw1p++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EMB_Prefix-gzyfipbyzhclwnfokgdwnxfufrck/EMB_Prefix.pch -c "/Users/rickwtj/Desktop/EMB/../../Downloads/pokeb-asi-http-request-1710da9 2/Classes/ASIDataCompressor.m" -o /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIDataCompressor.o0#
 
+CCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIDataCompressor.o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIDataCompressor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s331307283.940204
+e331307284.028710
+r1
+xCompileC
+xbuild/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIDataCompressor.o
+x/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIDataCompressor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIDataCompressor.m331307283#331307284#0(0"0(0#0#77"/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIDataCompressor.m8610016000#2230"    cd /Users/Edgar/Programming/github/EMB-Mobilised/EMB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-generated-files.hmap -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-own-target-headers.hmap -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-all-target-headers.hmap -iquote /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-project-headers.hmap -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/../../Downloads -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/../.. -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources/i386 -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources -include /var/folders/uj/ujG41M3hG1COwdItvqJYr++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EMB_Prefix-hgpuyjwxtsousqbxtpxidoyvugzh/EMB_Prefix.pch -c /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIDataCompressor.m -o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIDataCompressor.o0#
+
 CCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIDataCompressor.o /Users/rickwtj/Desktop/EMB/Classes/ASIDataCompressor.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s331117172.528046
 e331117173.701544
@@ -2619,6 +3252,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@113"Compile /Users/rickwtj/Desktop/EMB/../../Downloads/pokeb-asi-http-request-1710da9 2/Classes/ASIDataDecompressor.m331114201#331114201#0(0"0(0#0#105"/Users/rickwtj/Desktop/EMB/../../Downloads/pokeb-asi-http-request-1710da9 2/Classes/ASIDataDecompressor.m8618486720#1876"    cd /Users/rickwtj/Desktop/EMB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-generated-files.hmap -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-own-target-headers.hmap -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-all-target-headers.hmap -iquote /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-project-headers.hmap -F/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator -F/Users/rickwtj/Desktop/EMB/../../Downloads -I/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources/i386 -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources -include /var/folders/Hg/HgnMuJi9GSmdYC3SQCw1p++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EMB_Prefix-gzyfipbyzhclwnfokgdwnxfufrck/EMB_Prefix.pch -c "/Users/rickwtj/Desktop/EMB/../../Downloads/pokeb-asi-http-request-1710da9 2/Classes/ASIDataDecompressor.m" -o /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIDataDecompressor.o0#
 
+CCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIDataDecompressor.o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIDataDecompressor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s331307284.028797
+e331307284.145737
+r1
+xCompileC
+xbuild/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIDataDecompressor.o
+x/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIDataDecompressor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIDataDecompressor.m331307284#331307284#0(0"0(0#0#79"/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIDataDecompressor.m8609743392#2234"    cd /Users/Edgar/Programming/github/EMB-Mobilised/EMB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-generated-files.hmap -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-own-target-headers.hmap -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-all-target-headers.hmap -iquote /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-project-headers.hmap -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/../../Downloads -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/../.. -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources/i386 -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources -include /var/folders/uj/ujG41M3hG1COwdItvqJYr++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EMB_Prefix-hgpuyjwxtsousqbxtpxidoyvugzh/EMB_Prefix.pch -c /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIDataDecompressor.m -o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIDataDecompressor.o0#
+
 CCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIDataDecompressor.o /Users/rickwtj/Desktop/EMB/Classes/ASIDataDecompressor.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s331117173.701648
 e331117173.821070
@@ -2657,6 +3303,19 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@110"Compile /Users/rickwtj/Desktop/EMB/../../Downloads/pokeb-asi-http-request-1710da9 2/Classes/ASIDownloadCache.m331114201#331114201#0(0"0(0#0#102"/Users/rickwtj/Desktop/EMB/../../Downloads/pokeb-asi-http-request-1710da9 2/Classes/ASIDownloadCache.m8629568288#1870"    cd /Users/rickwtj/Desktop/EMB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-generated-files.hmap -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-own-target-headers.hmap -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-all-target-headers.hmap -iquote /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-project-headers.hmap -F/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator -F/Users/rickwtj/Desktop/EMB/../../Downloads -I/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources/i386 -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources -include /var/folders/Hg/HgnMuJi9GSmdYC3SQCw1p++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EMB_Prefix-gzyfipbyzhclwnfokgdwnxfufrck/EMB_Prefix.pch -c "/Users/rickwtj/Desktop/EMB/../../Downloads/pokeb-asi-http-request-1710da9 2/Classes/ASIDownloadCache.m" -o /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIDownloadCache.o0#
+
+CCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIDownloadCache.o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIDownloadCache.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s331307284.053545
+e331307284.202888
+r1
+xCompileC
+xbuild/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIDownloadCache.o
+x/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIDownloadCache.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIDownloadCache.m331307284#331307284#0(0"0(0#0#76"/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIDownloadCache.m8609419520#2228"    cd /Users/Edgar/Programming/github/EMB-Mobilised/EMB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-generated-files.hmap -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-own-target-headers.hmap -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-all-target-headers.hmap -iquote /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-project-headers.hmap -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/../../Downloads -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/../.. -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources/i386 -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources -include /var/folders/uj/ujG41M3hG1COwdItvqJYr++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EMB_Prefix-hgpuyjwxtsousqbxtpxidoyvugzh/EMB_Prefix.pch -c /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIDownloadCache.m -o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIDownloadCache.o0#
 
 CCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIDownloadCache.o /Users/rickwtj/Desktop/EMB/Classes/ASIDownloadCache.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s331117173.761507
@@ -2742,6 +3401,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@112"Compile /Users/rickwtj/Desktop/EMB/../../Downloads/pokeb-asi-http-request-1710da9 2/Classes/ASIFormDataRequest.m331114201#331114201#0(0"0(0#0#104"/Users/rickwtj/Desktop/EMB/../../Downloads/pokeb-asi-http-request-1710da9 2/Classes/ASIFormDataRequest.m8628676640#1874"    cd /Users/rickwtj/Desktop/EMB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-generated-files.hmap -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-own-target-headers.hmap -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-all-target-headers.hmap -iquote /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-project-headers.hmap -F/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator -F/Users/rickwtj/Desktop/EMB/../../Downloads -I/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources/i386 -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources -include /var/folders/Hg/HgnMuJi9GSmdYC3SQCw1p++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EMB_Prefix-gzyfipbyzhclwnfokgdwnxfufrck/EMB_Prefix.pch -c "/Users/rickwtj/Desktop/EMB/../../Downloads/pokeb-asi-http-request-1710da9 2/Classes/ASIFormDataRequest.m" -o /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIFormDataRequest.o0#
 
+CCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIFormDataRequest.o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIFormDataRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s331307284.145867
+e331307284.302482
+r1
+xCompileC
+xbuild/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIFormDataRequest.o
+x/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIFormDataRequest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIFormDataRequest.m331307284#331307284#0(0"0(0#0#78"/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIFormDataRequest.m8608873760#2232"    cd /Users/Edgar/Programming/github/EMB-Mobilised/EMB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-generated-files.hmap -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-own-target-headers.hmap -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-all-target-headers.hmap -iquote /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-project-headers.hmap -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/../../Downloads -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/../.. -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources/i386 -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources -include /var/folders/uj/ujG41M3hG1COwdItvqJYr++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EMB_Prefix-hgpuyjwxtsousqbxtpxidoyvugzh/EMB_Prefix.pch -c /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIFormDataRequest.m -o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIFormDataRequest.o0#
+
 CCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIFormDataRequest.o /Users/rickwtj/Desktop/EMB/Classes/ASIFormDataRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s331117173.821175
 e331117173.962443
@@ -2816,6 +3488,19 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@108"Compile /Users/rickwtj/Desktop/EMB/../../Downloads/pokeb-asi-http-request-1710da9 2/Classes/ASIHTTPRequest.m331114201#331114203#0(0"0(0#0#100"/Users/rickwtj/Desktop/EMB/../../Downloads/pokeb-asi-http-request-1710da9 2/Classes/ASIHTTPRequest.m8622936768#1866"    cd /Users/rickwtj/Desktop/EMB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-generated-files.hmap -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-own-target-headers.hmap -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-all-target-headers.hmap -iquote /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-project-headers.hmap -F/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator -F/Users/rickwtj/Desktop/EMB/../../Downloads -I/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources/i386 -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources -include /var/folders/Hg/HgnMuJi9GSmdYC3SQCw1p++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EMB_Prefix-gzyfipbyzhclwnfokgdwnxfufrck/EMB_Prefix.pch -c "/Users/rickwtj/Desktop/EMB/../../Downloads/pokeb-asi-http-request-1710da9 2/Classes/ASIHTTPRequest.m" -o /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIHTTPRequest.o0#
+
+CCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIHTTPRequest.o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIHTTPRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s331307284.202973
+e331307285.090223
+r1
+xCompileC
+xbuild/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIHTTPRequest.o
+x/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIHTTPRequest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIHTTPRequest.m331307284#331307285#0(0"0(0#0#74"/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIHTTPRequest.m8605045216#2224"    cd /Users/Edgar/Programming/github/EMB-Mobilised/EMB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-generated-files.hmap -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-own-target-headers.hmap -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-all-target-headers.hmap -iquote /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-project-headers.hmap -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/../../Downloads -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/../.. -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources/i386 -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources -include /var/folders/uj/ujG41M3hG1COwdItvqJYr++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EMB_Prefix-hgpuyjwxtsousqbxtpxidoyvugzh/EMB_Prefix.pch -c /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIHTTPRequest.m -o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIHTTPRequest.o0#
 
 CCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIHTTPRequest.o /Users/rickwtj/Desktop/EMB/Classes/ASIHTTPRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s331117173.963064
@@ -2916,6 +3601,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@108"Compile /Users/rickwtj/Desktop/EMB/../../Downloads/pokeb-asi-http-request-1710da9 2/Classes/ASIInputStream.m331114200#331114201#0(0"0(0#0#100"/Users/rickwtj/Desktop/EMB/../../Downloads/pokeb-asi-http-request-1710da9 2/Classes/ASIInputStream.m8629399616#1866"    cd /Users/rickwtj/Desktop/EMB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-generated-files.hmap -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-own-target-headers.hmap -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-all-target-headers.hmap -iquote /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-project-headers.hmap -F/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator -F/Users/rickwtj/Desktop/EMB/../../Downloads -I/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources/i386 -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources -include /var/folders/Hg/HgnMuJi9GSmdYC3SQCw1p++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EMB_Prefix-gzyfipbyzhclwnfokgdwnxfufrck/EMB_Prefix.pch -c "/Users/rickwtj/Desktop/EMB/../../Downloads/pokeb-asi-http-request-1710da9 2/Classes/ASIInputStream.m" -o /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIInputStream.o0#
 
+CCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIInputStream.o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIInputStream.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s331307284.302568
+e331307284.381906
+r1
+xCompileC
+xbuild/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIInputStream.o
+x/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIInputStream.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIInputStream.m331307284#331307284#0(0"0(0#0#74"/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIInputStream.m8606964704#2224"    cd /Users/Edgar/Programming/github/EMB-Mobilised/EMB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-generated-files.hmap -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-own-target-headers.hmap -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-all-target-headers.hmap -iquote /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-project-headers.hmap -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/../../Downloads -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/../.. -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources/i386 -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources -include /var/folders/uj/ujG41M3hG1COwdItvqJYr++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EMB_Prefix-hgpuyjwxtsousqbxtpxidoyvugzh/EMB_Prefix.pch -c /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASIInputStream.m -o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIInputStream.o0#
+
 CCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASIInputStream.o /Users/rickwtj/Desktop/EMB/Classes/ASIInputStream.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s331117173.973866
 e331117174.066727
@@ -2954,6 +3652,19 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@109"Compile /Users/rickwtj/Desktop/EMB/../../Downloads/pokeb-asi-http-request-1710da9 2/Classes/ASINetworkQueue.m331114201#331114201#0(0"0(0#0#101"/Users/rickwtj/Desktop/EMB/../../Downloads/pokeb-asi-http-request-1710da9 2/Classes/ASINetworkQueue.m8602363392#1868"    cd /Users/rickwtj/Desktop/EMB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-generated-files.hmap -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-own-target-headers.hmap -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-all-target-headers.hmap -iquote /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-project-headers.hmap -F/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator -F/Users/rickwtj/Desktop/EMB/../../Downloads -I/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources/i386 -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources -include /var/folders/Hg/HgnMuJi9GSmdYC3SQCw1p++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EMB_Prefix-gzyfipbyzhclwnfokgdwnxfufrck/EMB_Prefix.pch -c "/Users/rickwtj/Desktop/EMB/../../Downloads/pokeb-asi-http-request-1710da9 2/Classes/ASINetworkQueue.m" -o /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASINetworkQueue.o0#
+
+CCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASINetworkQueue.o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASINetworkQueue.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s331307284.381993
+e331307284.501349
+r1
+xCompileC
+xbuild/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASINetworkQueue.o
+x/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASINetworkQueue.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASINetworkQueue.m331307284#331307284#0(0"0(0#0#75"/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASINetworkQueue.m8609672032#2226"    cd /Users/Edgar/Programming/github/EMB-Mobilised/EMB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-generated-files.hmap -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-own-target-headers.hmap -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-all-target-headers.hmap -iquote /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-project-headers.hmap -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/../../Downloads -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/../.. -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources/i386 -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources -include /var/folders/uj/ujG41M3hG1COwdItvqJYr++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EMB_Prefix-hgpuyjwxtsousqbxtpxidoyvugzh/EMB_Prefix.pch -c /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/ASINetworkQueue.m -o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASINetworkQueue.o0#
 
 CCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ASINetworkQueue.o /Users/rickwtj/Desktop/EMB/Classes/ASINetworkQueue.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s331117174.066925
@@ -3424,6 +4135,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@51"Compile /Users/rickwtj/Desktop/EMB/Classes/Boards.m329049050#329049050#0(0"0(0#0#43"/Users/rickwtj/Desktop/EMB/Classes/Boards.m8606692224#1701"    cd /Users/rickwtj/Desktop/EMB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-generated-files.hmap -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-own-target-headers.hmap -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-all-target-headers.hmap -iquote /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-project-headers.hmap -F/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator -I/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/include -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources/i386 -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources -include /var/folders/Hg/HgnMuJi9GSmdYC3SQCw1p++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EMB_Prefix-dmwcigrgxygvosdtxhtvwgcbotwy/EMB_Prefix.pch -c /Users/rickwtj/Desktop/EMB/Classes/Boards.m -o /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/Boards.o0#
 
+CCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/BoardsViewController.o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/BoardsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s331326294.132973
+e331326294.240361
+r1
+xCompileC
+xbuild/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/BoardsViewController.o
+x/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/BoardsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/BoardsViewController.m331326294#331326294#0(0"0(0#0#80"/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/BoardsViewController.m8633554304#2236"    cd /Users/Edgar/Programming/github/EMB-Mobilised/EMB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-generated-files.hmap -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-own-target-headers.hmap -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-all-target-headers.hmap -iquote /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-project-headers.hmap -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/../../Downloads -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/../.. -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources/i386 -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources -include /var/folders/uj/ujG41M3hG1COwdItvqJYr++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EMB_Prefix-hgpuyjwxtsousqbxtpxidoyvugzh/EMB_Prefix.pch -c /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/BoardsViewController.m -o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/BoardsViewController.o0#
+
 CCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/BoardsViewController.o /Users/rickwtj/Desktop/EMB-1/Classes/BoardsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s331050594.182658
 e331050594.320081
@@ -3486,6 +4210,19 @@ o/Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/ClientCertificateTests.m:44: w
 o/Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/ClientCertificateTests.m:46: warning: implicit declaration of function 'GHAssertTrue'
 lSLF07#2@81"Compile /Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/ClientCertificateTests.m331112934#331112935#0(1219"In file included from /Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/ClientCertificateTests.h:13,                 from /Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/ClientCertificateTests.m:9:/Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/ASITestCase.h:12:29: error: GHUnitIOS/GHUnit.h: No such file or directoryIn file included from /Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/ClientCertificateTests.h:13,                 from /Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/ClientCertificateTests.m:9:/Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/ASITestCase.h:17: error: cannot find interface declaration for 'GHTestCase', superclass of 'ASITestCase'/Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/ClientCertificateTests.m: In function '-[ClientCertificateTests testClientCertificate]':/Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/ClientCertificateTests.m:28: warning: implicit declaration of function 'GHAssertNotNil'/Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/ClientCertificateTests.m:44: warning: implicit declaration of function 'GHAssertNil'/Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/ClientCertificateTests.m:46: warning: implicit declaration of function 'GHAssertTrue'5(4@45"GHUnitIOS/GHUnit.h: No such file or directory331112935#199#123#3(7@95"In file included from /Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/ClientCertificateTests.m331112935#18446744073709551615#0#0(6@73"/Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/ClientCertificateTests.m330864473#9#0#9#0#0"0(7@95"In file included from /Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/ClientCertificateTests.h331112935#18446744073709551615#0#0(6@73"/Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/ClientCertificateTests.h330864473#13#0#13#0#0"0(13@111"GHUnitIOS/GHUnit.h: No such file or directory in /Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/ASITestCase.h331112935#18446744073709551615#0#0(6@62"/Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/ASITestCase.h330864473#12#0#12#0#0"0(6@62"/Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/ASITestCase.h330864473#12#0#12#0#28"*: No such file or directory0(4@79"Cannot find interface declaration for 'GHTestCase', superclass of 'ASITestCase'331112935#521#154#3(7@95"In file included from /Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/ClientCertificateTests.m331112935#18446744073709551615#0#0(6@73"/Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/ClientCertificateTests.m330864473#9#0#9#0#0"0(7@95"In file included from /Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/ClientCertificateTests.h331112935#18446744073709551615#0#0(6@73"/Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/ClientCertificateTests.h330864473#13#0#13#0#0"0(13@145"Cannot find interface declaration for 'GHTestCase', superclass of 'ASITestCase' in /Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/ASITestCase.h331112935#18446744073709551615#0#0(6@62"/Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/ASITestCase.h330864473#17#0#17#0#0"0(6@62"/Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/ASITestCase.h330864473#17#0#17#0#60"cannot find interface declaration for '*', superclass of '*'0(22@49"Implicit declaration of function 'GHAssertNotNil'331112935#813#137#0(6@73"/Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/ClientCertificateTests.m330864473#28#0#28#0#36"implicit declaration of function '*'0(22@46"Implicit declaration of function 'GHAssertNil'331112935#950#134#0(6@73"/Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/ClientCertificateTests.m330864473#44#0#44#0#36"implicit declaration of function '*'0(22@47"Implicit declaration of function 'GHAssertTrue'331112935#1084#135#0(6@73"/Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/ClientCertificateTests.m330864473#46#0#46#0#36"implicit declaration of function '*'0(0#0#73"/Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/ClientCertificateTests.m8629027552#1747"    cd /Users/rickwtj/Desktop/EMB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-generated-files.hmap -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-own-target-headers.hmap -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-all-target-headers.hmap -iquote /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-project-headers.hmap -F/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator -I/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/include -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources/i386 -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources -include /var/folders/Hg/HgnMuJi9GSmdYC3SQCw1p++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EMB_Prefix-dmwcigrgxygvosdtxhtvwgcbotwy/EMB_Prefix.pch -c /Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/ClientCertificateTests.m -o /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/ClientCertificateTests.o1#
 
+CCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/EMBAppDelegate.o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/EMBAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s331326293.925562
+e331326294.085898
+r1
+xCompileC
+xbuild/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/EMBAppDelegate.o
+x/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/EMBAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/EMBAppDelegate.m331326293#331326294#0(0"0(0#0#74"/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/EMBAppDelegate.m8633460480#2224"    cd /Users/Edgar/Programming/github/EMB-Mobilised/EMB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-generated-files.hmap -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-own-target-headers.hmap -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-all-target-headers.hmap -iquote /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-project-headers.hmap -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/../../Downloads -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/../.. -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources/i386 -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources -include /var/folders/uj/ujG41M3hG1COwdItvqJYr++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EMB_Prefix-hgpuyjwxtsousqbxtpxidoyvugzh/EMB_Prefix.pch -c /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/EMBAppDelegate.m -o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/EMBAppDelegate.o0#
+
 CCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/EMBAppDelegate.o /Users/rickwtj/Desktop/EMB-1/Classes/EMBAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s331050593.934213
 e331050594.052278
@@ -3511,6 +4248,21 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@59"Compile /Users/rickwtj/Desktop/EMB/Classes/EMBAppDelegate.m331114200#331114200#0(0"0(0#0#51"/Users/rickwtj/Desktop/EMB/Classes/EMBAppDelegate.m8629208640#1815"    cd /Users/rickwtj/Desktop/EMB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-generated-files.hmap -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-own-target-headers.hmap -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-all-target-headers.hmap -iquote /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-project-headers.hmap -F/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator -F/Users/rickwtj/Desktop/EMB/../../Downloads -I/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources/i386 -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources -include /var/folders/Hg/HgnMuJi9GSmdYC3SQCw1p++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EMB_Prefix-gzyfipbyzhclwnfokgdwnxfufrck/EMB_Prefix.pch -c /Users/rickwtj/Desktop/EMB/Classes/EMBAppDelegate.m -o /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/EMBAppDelegate.o0#
+
+CCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/LoginViewController.o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/LoginViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s331359026.449769
+e331359028.413818
+r1
+xCompileC
+xbuild/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/LoginViewController.o
+x/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/LoginViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/LoginViewController.m:143: warning: incomplete implementation of class 'LoginViewController'
+o/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/LoginViewController.m:143: warning: method definition for '-submitAuthentication:' not found
+lSLF07#2@87"Compile /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/LoginViewController.m331359026#331359028#0(302"/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/LoginViewController.m:143: warning: incomplete implementation of class 'LoginViewController'/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/LoginViewController.m:143: warning: method definition for '-submitAuthentication:' not found2(22@56"Incomplete implementation of class 'LoginViewController'331359028#0#151#0(6@79"/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/LoginViewController.m331326515#143#0#143#0#38"incomplete implementation of class '*'0(22@56"Method definition for '-submitAuthentication:' not found331359028#151#151#0(6@79"/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/LoginViewController.m331326515#143#0#143#0#35"method definition for '*' not found0(0#0#79"/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/LoginViewController.m7809643567100341248#2234"    cd /Users/Edgar/Programming/github/EMB-Mobilised/EMB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-generated-files.hmap -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-own-target-headers.hmap -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-all-target-headers.hmap -iquote /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-project-headers.hmap -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/../../Downloads -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/../.. -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources/i386 -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources -include /var/folders/uj/ujG41M3hG1COwdItvqJYr++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EMB_Prefix-hgpuyjwxtsousqbxtpxidoyvugzh/EMB_Prefix.pch -c /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/LoginViewController.m -o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/LoginViewController.o0#
 
 CCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/LoginViewController.o /Users/rickwtj/Desktop/EMB-1/Classes/LoginViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s331050593.996516
@@ -3647,6 +4399,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@120"Compile /Users/rickwtj/Desktop/EMB/../../Downloads/pokeb-asi-http-request-1710da9 2/External/Reachability/Reachability.m331114206#331114206#0(0"0(0#0#112"/Users/rickwtj/Desktop/EMB/../../Downloads/pokeb-asi-http-request-1710da9 2/External/Reachability/Reachability.m8628700000#1876"    cd /Users/rickwtj/Desktop/EMB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-generated-files.hmap -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-own-target-headers.hmap -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-all-target-headers.hmap -iquote /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-project-headers.hmap -F/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator -F/Users/rickwtj/Desktop/EMB/../../Downloads -I/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources/i386 -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources -include /var/folders/Hg/HgnMuJi9GSmdYC3SQCw1p++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EMB_Prefix-gzyfipbyzhclwnfokgdwnxfufrck/EMB_Prefix.pch -c "/Users/rickwtj/Desktop/EMB/../../Downloads/pokeb-asi-http-request-1710da9 2/External/Reachability/Reachability.m" -o /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/Reachability.o0#
 
+CCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/Reachability.o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Reachability.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s331307284.501428
+e331307284.691529
+r1
+xCompileC
+xbuild/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/Reachability.o
+x/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Reachability.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Reachability.m331307284#331307284#0(0"0(0#0#64"/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Reachability.m8601423008#2212"    cd /Users/Edgar/Programming/github/EMB-Mobilised/EMB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-generated-files.hmap -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-own-target-headers.hmap -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-all-target-headers.hmap -iquote /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-project-headers.hmap -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/../../Downloads -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/../.. -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources/i386 -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources -include /var/folders/uj/ujG41M3hG1COwdItvqJYr++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EMB_Prefix-hgpuyjwxtsousqbxtpxidoyvugzh/EMB_Prefix.pch -c /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Reachability.m -o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/Reachability.o0#
+
 CCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/Reachability.o /Users/rickwtj/Desktop/EMB/External/Reachability/Reachability.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s331111981.389484
 e331111983.439309
@@ -3714,6 +4479,19 @@ o/Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/StressTests.m: In function '-[
 o/Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/StressTests.m:179: warning: 'StressTests' may not respond to '-performSelector:withObject:afterDelay:'
 lSLF07#2@70"Compile /Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/StressTests.m331112934#331112934#0(1774"In file included from /Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/StressTests.h:10,                 from /Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/StressTests.m:16:/Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/ASITestCase.h:12:29: error: GHUnitIOS/GHUnit.h: No such file or directoryIn file included from /Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/StressTests.h:10,                 from /Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/StressTests.m:16:/Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/ASITestCase.h:17: error: cannot find interface declaration for 'GHTestCase', superclass of 'ASITestCase'/Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/StressTests.m: In function '-[StressTests performRedirectRequest]':/Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/StressTests.m:115: warning: 'StressTests' may not respond to '-performSelector:withObject:afterDelay:'/Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/StressTests.m:115: warning: (Messages without a matching method signature/Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/StressTests.m:115: warning: will be assumed to return 'id' and accept/Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/StressTests.m:115: warning: '...' as arguments.)/Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/StressTests.m: In function '-[StressTests performSetDelegateRequest]':/Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/StressTests.m:151: warning: 'StressTests' may not respond to '-performSelectorInBackground:withObject:'/Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/StressTests.m: In function '-[StressTests setProgress:]':/Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/StressTests.m:179: warning: 'StressTests' may not respond to '-performSelector:withObject:afterDelay:'6(4@45"GHUnitIOS/GHUnit.h: No such file or directory331112934#178#123#3(7@84"In file included from /Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/StressTests.m331112934#18446744073709551615#0#0(6@62"/Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/StressTests.m330864473#16#0#16#0#0"0(7@84"In file included from /Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/StressTests.h331112934#18446744073709551615#0#0(6@62"/Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/StressTests.h330864473#10#0#10#0#0"0(13@111"GHUnitIOS/GHUnit.h: No such file or directory in /Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/ASITestCase.h331112934#18446744073709551615#0#0(6@62"/Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/ASITestCase.h330864473#12#0#12#0#0"0(6@62"/Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/ASITestCase.h330864473#12#0#12#0#28"*: No such file or directory0(4@79"Cannot find interface declaration for 'GHTestCase', superclass of 'ASITestCase'331112934#479#154#3(7@84"In file included from /Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/StressTests.m331112934#18446744073709551615#0#0(6@62"/Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/StressTests.m330864473#16#0#16#0#0"0(7@84"In file included from /Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/StressTests.h331112934#18446744073709551615#0#0(6@62"/Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/StressTests.h330864473#10#0#10#0#0"0(13@145"Cannot find interface declaration for 'GHTestCase', superclass of 'ASITestCase' in /Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/ASITestCase.h331112934#18446744073709551615#0#0(6@62"/Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/ASITestCase.h330864473#17#0#17#0#0"0(6@62"/Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/ASITestCase.h330864473#17#0#17#0#60"cannot find interface declaration for '*', superclass of '*'0(22@74"'StressTests' may not respond to '-performSelector:withObject:afterDelay:'331112934#750#152#0(6@62"/Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/StressTests.m330864473#115#0#115#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)331112934#902#123#0(6@62"/Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/StressTests.m330864473#115#0#115#0#0"0(22@75"'StressTests' may not respond to '-performSelectorInBackground:withObject:'331112934#1362#153#0(6@62"/Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/StressTests.m330864473#151#0#151#0#26"'*' may not respond to '*'0(22@74"'StressTests' may not respond to '-performSelector:withObject:afterDelay:'331112934#1622#152#0(6@62"/Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/StressTests.m330864473#179#0#179#0#26"'*' may not respond to '*'0(0#0#62"/Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/StressTests.m8629664640#1725"    cd /Users/rickwtj/Desktop/EMB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-generated-files.hmap -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-own-target-headers.hmap -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-all-target-headers.hmap -iquote /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-project-headers.hmap -F/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator -I/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/include -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources/i386 -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources -include /var/folders/Hg/HgnMuJi9GSmdYC3SQCw1p++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EMB_Prefix-dmwcigrgxygvosdtxhtvwgcbotwy/EMB_Prefix.pch -c /Users/rickwtj/Desktop/EMB/Classes/Classes/Tests/StressTests.m -o /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/StressTests.o1#
 
+CCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/main.o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s331307283.540575
+e331307283.605386
+r1
+xCompileC
+xbuild/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/main.o
+x/Users/Edgar/Programming/github/EMB-Mobilised/EMB/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/Edgar/Programming/github/EMB-Mobilised/EMB/main.m331307283#331307283#0(0"0(0#0#56"/Users/Edgar/Programming/github/EMB-Mobilised/EMB/main.m8606354400#2196"    cd /Users/Edgar/Programming/github/EMB-Mobilised/EMB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-generated-files.hmap -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-own-target-headers.hmap -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-all-target-headers.hmap -iquote /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-project-headers.hmap -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/../../Downloads -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/../.. -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources/i386 -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources -include /var/folders/uj/ujG41M3hG1COwdItvqJYr++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EMB_Prefix-hgpuyjwxtsousqbxtpxidoyvugzh/EMB_Prefix.pch -c /Users/Edgar/Programming/github/EMB-Mobilised/EMB/main.m -o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/main.o0#
+
 CCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/main.o /Users/rickwtj/Desktop/EMB-1/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s331050593.932951
 e331050593.996412
@@ -3739,6 +4517,19 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@41"Compile /Users/rickwtj/Desktop/EMB/main.m331114200#331114200#0(0"0(0#0#33"/Users/rickwtj/Desktop/EMB/main.m8629454528#1787"    cd /Users/rickwtj/Desktop/EMB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-generated-files.hmap -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-own-target-headers.hmap -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-all-target-headers.hmap -iquote /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-project-headers.hmap -F/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator -F/Users/rickwtj/Desktop/EMB/../../Downloads -I/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources/i386 -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources -include /var/folders/Hg/HgnMuJi9GSmdYC3SQCw1p++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EMB_Prefix-gzyfipbyzhclwnfokgdwnxfufrck/EMB_Prefix.pch -c /Users/rickwtj/Desktop/EMB/main.m -o /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/main.o0#
+
+CCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/psbViewController.o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/psbViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s331326294.193885
+e331326294.279232
+r1
+xCompileC
+xbuild/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/psbViewController.o
+x/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/psbViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/psbViewController.m331326294#331326294#0(0"0(0#0#77"/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/psbViewController.m8634797888#2230"    cd /Users/Edgar/Programming/github/EMB-Mobilised/EMB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-generated-files.hmap -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-own-target-headers.hmap -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-all-target-headers.hmap -iquote /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-project-headers.hmap -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/../../Downloads -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/../.. -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources/i386 -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources -include /var/folders/uj/ujG41M3hG1COwdItvqJYr++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EMB_Prefix-hgpuyjwxtsousqbxtpxidoyvugzh/EMB_Prefix.pch -c /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/psbViewController.m -o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/psbViewController.o0#
 
 CCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/psbViewController.o /Users/rickwtj/Desktop/EMB-1/Classes/psbViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s331050594.261736
@@ -3766,6 +4557,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@62"Compile /Users/rickwtj/Desktop/EMB/Classes/psbViewController.m331114200#331114200#0(0"0(0#0#54"/Users/rickwtj/Desktop/EMB/Classes/psbViewController.m8612323488#1821"    cd /Users/rickwtj/Desktop/EMB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-generated-files.hmap -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-own-target-headers.hmap -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-all-target-headers.hmap -iquote /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-project-headers.hmap -F/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator -F/Users/rickwtj/Desktop/EMB/../../Downloads -I/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources/i386 -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources -include /var/folders/Hg/HgnMuJi9GSmdYC3SQCw1p++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EMB_Prefix-gzyfipbyzhclwnfokgdwnxfufrck/EMB_Prefix.pch -c /Users/rickwtj/Desktop/EMB/Classes/psbViewController.m -o /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/psbViewController.o0#
 
+CCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/studentMessageViewController.o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/studentMessageViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s331307283.825804
+e331307283.940116
+r1
+xCompileC
+xbuild/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/studentMessageViewController.o
+x/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/studentMessageViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/studentMessageViewController.m331307283#331307283#0(0"0(0#0#88"/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/studentMessageViewController.m8609242464#2252"    cd /Users/Edgar/Programming/github/EMB-Mobilised/EMB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-generated-files.hmap -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-own-target-headers.hmap -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-all-target-headers.hmap -iquote /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-project-headers.hmap -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/../../Downloads -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/../.. -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources/i386 -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources -include /var/folders/uj/ujG41M3hG1COwdItvqJYr++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EMB_Prefix-hgpuyjwxtsousqbxtpxidoyvugzh/EMB_Prefix.pch -c /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/studentMessageViewController.m -o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/studentMessageViewController.o0#
+
 CCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/studentMessageViewController.o /Users/rickwtj/Desktop/EMB-1/Classes/studentMessageViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s331050594.320189
 e331050594.456534
@@ -3792,6 +4596,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@73"Compile /Users/rickwtj/Desktop/EMB/Classes/studentMessageViewController.m331114200#331114200#0(0"0(0#0#65"/Users/rickwtj/Desktop/EMB/Classes/studentMessageViewController.m8625640224#1843"    cd /Users/rickwtj/Desktop/EMB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-generated-files.hmap -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-own-target-headers.hmap -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-all-target-headers.hmap -iquote /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-project-headers.hmap -F/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator -F/Users/rickwtj/Desktop/EMB/../../Downloads -I/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources/i386 -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources -include /var/folders/Hg/HgnMuJi9GSmdYC3SQCw1p++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EMB_Prefix-gzyfipbyzhclwnfokgdwnxfufrck/EMB_Prefix.pch -c /Users/rickwtj/Desktop/EMB/Classes/studentMessageViewController.m -o /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/studentMessageViewController.o0#
 
+CCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/studentViewController.o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/studentViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s331326294.085984
+e331326294.193618
+r1
+xCompileC
+xbuild/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/studentViewController.o
+x/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/studentViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/studentViewController.m331326294#331326294#0(0"0(0#0#81"/Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/studentViewController.m8607299328#2238"    cd /Users/Edgar/Programming/github/EMB-Mobilised/EMB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-generated-files.hmap -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-own-target-headers.hmap -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-all-target-headers.hmap -iquote /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-project-headers.hmap -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/../../Downloads -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/../.. -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources/i386 -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources -include /var/folders/uj/ujG41M3hG1COwdItvqJYr++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EMB_Prefix-hgpuyjwxtsousqbxtpxidoyvugzh/EMB_Prefix.pch -c /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/studentViewController.m -o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/studentViewController.o0#
+
 CCompileC build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/studentViewController.o /Users/rickwtj/Desktop/EMB-1/Classes/studentViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s331050594.052385
 e331050594.261628
@@ -3817,6 +4634,24 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@66"Compile /Users/rickwtj/Desktop/EMB/Classes/studentViewController.m331114200#331114200#0(0"0(0#0#58"/Users/rickwtj/Desktop/EMB/Classes/studentViewController.m8614451168#1829"    cd /Users/rickwtj/Desktop/EMB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-generated-files.hmap -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-own-target-headers.hmap -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-all-target-headers.hmap -iquote /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-project-headers.hmap -F/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator -F/Users/rickwtj/Desktop/EMB/../../Downloads -I/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources/i386 -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources -include /var/folders/Hg/HgnMuJi9GSmdYC3SQCw1p++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EMB_Prefix-gzyfipbyzhclwnfokgdwnxfufrck/EMB_Prefix.pch -c /Users/rickwtj/Desktop/EMB/Classes/studentViewController.m -o /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/studentViewController.o0#
+
+CCompileXIB /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/BoardsViewController.xib
+r0
+
+CCompileXIB /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/psbViewController.xib
+r0
+
+CCompileXIB /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/studentMessage.xib
+r0
+
+CCompileXIB /Users/Edgar/Programming/github/EMB-Mobilised/EMB/Classes/studentViewController.xib
+r0
+
+CCompileXIB /Users/Edgar/Programming/github/EMB-Mobilised/EMB/LoginViewController.xib
+r0
+
+CCompileXIB /Users/Edgar/Programming/github/EMB-Mobilised/EMB/MainWindow.xib
+r0
 
 CCompileXIB /Users/rickwtj/Desktop/EMB-1/Classes/BoardsViewController.xib
 r0
@@ -3913,13 +4748,13 @@ oCouldn't open shared capabilities memory GSCapabilities (No such file or direct
 lSLF07#2@25"CompileXIB MainWindow.xib318696215#318696215#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#41"/Users/rickwtj/Desktop/EMB/MainWindow.xib8605271584#530"    cd /Users/rickwtj/Desktop/EMB    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/EMB.app/MainWindow.nib /Users/rickwtj/Desktop/EMB/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
 
 CCpResource build/Debug-iphonesimulator/EMB.app/HCI.png HCI.png
-s329144506.561320
-e329144506.665263
+s331306854.080933
+e331306854.098648
 r1
 xCpResource
 xbuild/Debug-iphonesimulator/EMB.app/HCI.png
 xHCI.png
-lSLF07#2@12"Copy HCI.png329144506#329144506#0(0"0(0#0#34"/Users/rickwtj/Desktop/EMB/HCI.png8610661280#411"    cd /Users/rickwtj/Desktop/EMB    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/rickwtj/Desktop/EMB/HCI.png /Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/EMB.app0#
+lSLF07#2@12"Copy HCI.png331306854#331306854#0(0"0(0#0#57"/Users/Edgar/Programming/github/EMB-Mobilised/EMB/HCI.png8604934144#556"    cd /Users/Edgar/Programming/github/EMB-Mobilised/EMB    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Edgar/Programming/github/EMB-Mobilised/EMB/HCI.png /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/EMB.app0#
 
 CCpResource build/Debug-iphonesimulator/EMB.app/Hwa_Chong_Institution_Logo.png Hwa_Chong_Institution_Logo.png
 s329145699.255669
@@ -3931,13 +4766,16 @@ xHwa_Chong_Institution_Logo.png
 lSLF07#2@35"Copy Hwa_Chong_Institution_Logo.png329145699#329145699#0(0"0(0#0#57"/Users/rickwtj/Desktop/EMB/Hwa_Chong_Institution_Logo.png8598224544#434"    cd /Users/rickwtj/Desktop/EMB    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/rickwtj/Desktop/EMB/Hwa_Chong_Institution_Logo.png /Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/EMB.app0#
 
 CCpResource build/Debug-iphonesimulator/EMB.app/iPhoneArrow.png iPhoneArrow.png
-s331051184.652799
-e331051184.762106
+s331306854.082178
+e331306854.098757
 r1
 xCpResource
 xbuild/Debug-iphonesimulator/EMB.app/iPhoneArrow.png
 xiPhoneArrow.png
-lSLF07#2@20"Copy iPhoneArrow.png331051184#331051184#0(0"0(0#0#42"/Users/rickwtj/Desktop/EMB/iPhoneArrow.png8606484192#419"    cd /Users/rickwtj/Desktop/EMB    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/rickwtj/Desktop/EMB/iPhoneArrow.png /Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/EMB.app0#
+lSLF07#2@20"Copy iPhoneArrow.png331306854#331306854#0(0"0(0#0#65"/Users/Edgar/Programming/github/EMB-Mobilised/EMB/iPhoneArrow.png8605934656#564"    cd /Users/Edgar/Programming/github/EMB-Mobilised/EMB    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Edgar/Programming/github/EMB-Mobilised/EMB/iPhoneArrow.png /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/EMB.app0#
+
+CDataModelVersionCompile /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/EMB.app/smb.momd /Users/Edgar/Programming/github/EMB-Mobilised/EMB/smb.xcdatamodeld
+r0
 
 CDataModelVersionCompile /Users/rickwtj/Desktop/EMB-1/build/Debug-iphonesimulator/EMB.app/smb.momd /Users/rickwtj/Desktop/EMB-1/smb.xcdatamodeld
 r0
@@ -3950,6 +4788,15 @@ xDataModelVersionCompile
 x/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/EMB.app/smb.momd
 x/Users/rickwtj/Desktop/EMB/smb.xcdatamodeld
 lSLF07#2@85"DataModelVersionCompile build/Debug-iphonesimulator/EMB.app/smb.momd smb.xcdatamodeld318734488#318734488#0(0"0(0#0#43"/Users/rickwtj/Desktop/EMB/smb.xcdatamodeld27303270313754700#338"    cd /Users/rickwtj/Desktop/EMB    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 /Users/rickwtj/Desktop/EMB/smb.xcdatamodeld /Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/EMB.app/smb.momd0#
+
+CGenerateDSYMFile /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/EMB.app.dSYM /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/EMB.app/EMB
+s331359029.136103
+e331359029.245156
+r1
+xGenerateDSYMFile
+x/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/EMB.app.dSYM
+x/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/EMB.app/EMB
+lSLF07#2@97"GenerateDSYMFile build/Debug-iphonesimulator/EMB.app.dSYM build/Debug-iphonesimulator/EMB.app/EMB331359029#331359029#0(0"0(0#0#89"/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/EMB.app/EMB8606415104#466"    cd /Users/Edgar/Programming/github/EMB-Mobilised/EMB    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/EMB.app/EMB -o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/EMB.app.dSYM0#
 
 CGenerateDSYMFile /Users/rickwtj/Desktop/EMB-1/build/Debug-iphonesimulator/EMB.app.dSYM /Users/rickwtj/Desktop/EMB-1/build/Debug-iphonesimulator/EMB.app/EMB
 s331050595.221867
@@ -3968,6 +4815,17 @@ xGenerateDSYMFile
 x/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/EMB.app.dSYM
 x/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/EMB.app/EMB
 lSLF07#2@97"GenerateDSYMFile build/Debug-iphonesimulator/EMB.app.dSYM build/Debug-iphonesimulator/EMB.app/EMB331117175#331117175#0(0"0(0#0#66"/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/EMB.app/EMB8607444000#335"    cd /Users/rickwtj/Desktop/EMB    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/EMB.app/EMB -o /Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/EMB.app.dSYM0#
+
+CLd /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/EMB.app/EMB normal i386
+s331359028.413942
+e331359029.136032
+r1
+xLd
+x/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/EMB.app/EMB
+xnormal
+xi386
+old: warning: directory '/Users/Edgar/Programming/github/EMB-Mobilised/EMB/../../Downloads' following -F not found
+lSLF07#2@94"Link /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/EMB.app/EMB331359028#331359029#0(114"ld: warning: directory '/Users/Edgar/Programming/github/EMB-Mobilised/EMB/../../Downloads' following -F not found1(22@100"Directory '/Users/Edgar/Programming/github/EMB-Mobilised/EMB/../../Downloads' following -F not found331359029#0#114#0(6@0"331359029#0#0#0#0#0"0(0#0#0"19140500286341228#1278"    cd /Users/Edgar/Programming/github/EMB-Mobilised/EMB    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/../../Downloads -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/../.. -filelist /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/EMB.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -framework QuartzCore -framework CFNetwork -framework SystemConfiguration -framework MobileCoreServices -lz.1.2.3 -framework GHUnitIOS -o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/EMB.app/EMB0#
 
 CLd /Users/rickwtj/Desktop/EMB-1/build/Debug-iphonesimulator/EMB.app/EMB normal i386
 s331050594.456639
@@ -3988,6 +4846,15 @@ x/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/EMB.app/EMB
 xnormal
 xi386
 lSLF07#2@71"Link /Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/EMB.app/EMB331117175#331117175#0(0"0(0#0#0"8607095648#1020"    cd /Users/rickwtj/Desktop/EMB    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator -F/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator -F/Users/rickwtj/Desktop/EMB/../../Downloads -filelist /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/Objects-normal/i386/EMB.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -framework QuartzCore -framework CFNetwork -framework SystemConfiguration -framework MobileCoreServices -lz.1.2.3 -framework GHUnitIOS -o /Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/EMB.app/EMB0#
+
+CProcessInfoPlistFile /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/EMB.app/Info.plist EMB-Info.plist
+s331306854.058524
+e331306854.080766
+r1
+xProcessInfoPlistFile
+x/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/EMB.app/Info.plist
+xEMB-Info.plist
+lSLF07#2@22"Process EMB-Info.plist331306854#331306854#0(0"0(0#0#64"/Users/Edgar/Programming/github/EMB-Mobilised/EMB/EMB-Info.plist28147961534414964#562"    cd /Users/Edgar/Programming/github/EMB-Mobilised/EMB    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility EMB-Info.plist -genpkginfo /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/EMB.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/EMB.app/Info.plist0#
 
 CProcessInfoPlistFile /Users/rickwtj/Desktop/EMB-1/build/Debug-iphonesimulator/EMB.app/Info.plist EMB-Info.plist
 r0
@@ -4074,6 +4941,40 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@25"Precompile smb_Prefix.pch318696305#318696306#0(0"0(0#0#41"/Users/rickwtj/Desktop/EMB/smb_Prefix.pch8605265664#1597"    cd /Users/rickwtj/Desktop/EMB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-generated-files.hmap -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-own-target-headers.hmap -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-all-target-headers.hmap -iquote /Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-project-headers.hmap -F/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator -I/Users/rickwtj/Desktop/EMB/build/Debug-iphonesimulator/include -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources/i386 -I/Users/rickwtj/Desktop/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources -c /Users/rickwtj/Desktop/EMB/smb_Prefix.pch -o /var/folders/Hg/HgnMuJi9GSmdYC3SQCw1p++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/smb_Prefix-dmwcigrgxygvosdtxhtvwgcbotwy/smb_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/uj/ujG41M3hG1COwdItvqJYr++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EMB_Prefix-aycvdpakfqobobhcyhaxejhmptrf/EMB_Prefix.pch.gch EMB_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s331306854.098855
+e331306854.924896
+r1
+xProcessPCH
+x/var/folders/uj/ujG41M3hG1COwdItvqJYr++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EMB_Prefix-aycvdpakfqobobhcyhaxejhmptrf/EMB_Prefix.pch.gch
+xEMB_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@25"Precompile EMB_Prefix.pch331306854#331306854#0(0"0(0#0#64"/Users/Edgar/Programming/github/EMB-Mobilised/EMB/EMB_Prefix.pch8603557216#2023"    cd /Users/Edgar/Programming/github/EMB-Mobilised/EMB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-generated-files.hmap -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-own-target-headers.hmap -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-all-target-headers.hmap -iquote /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-project-headers.hmap -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/../../Downloads -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources/i386 -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources -c /Users/Edgar/Programming/github/EMB-Mobilised/EMB/EMB_Prefix.pch -o /var/folders/uj/ujG41M3hG1COwdItvqJYr++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EMB_Prefix-aycvdpakfqobobhcyhaxejhmptrf/EMB_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/uj/ujG41M3hG1COwdItvqJYr++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EMB_Prefix-hgpuyjwxtsousqbxtpxidoyvugzh/EMB_Prefix.pch.gch EMB_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s331307282.639493
+e331307283.540458
+r1
+xProcessPCH
+x/var/folders/uj/ujG41M3hG1COwdItvqJYr++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EMB_Prefix-hgpuyjwxtsousqbxtpxidoyvugzh/EMB_Prefix.pch.gch
+xEMB_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@25"Precompile EMB_Prefix.pch331307282#331307283#0(0"0(0#0#64"/Users/Edgar/Programming/github/EMB-Mobilised/EMB/EMB_Prefix.pch8676578743001571328#2081"    cd /Users/Edgar/Programming/github/EMB-Mobilised/EMB    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-generated-files.hmap -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-own-target-headers.hmap -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-all-target-headers.hmap -iquote /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/EMB-project-headers.hmap -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/../../Downloads -F/Users/Edgar/Programming/github/EMB-Mobilised/EMB/../.. -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources/i386 -I/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/EMB.build/Debug-iphonesimulator/EMB.build/DerivedSources -c /Users/Edgar/Programming/github/EMB-Mobilised/EMB/EMB_Prefix.pch -o /var/folders/uj/ujG41M3hG1COwdItvqJYr++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EMB_Prefix-hgpuyjwxtsousqbxtpxidoyvugzh/EMB_Prefix.pch.gch0#
+
+CTouch /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/EMB.app
+s331359029.245231
+e331359029.259453
+r1
+xTouch
+x/Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/EMB.app
+lSLF07#2@91"Touch /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/EMB.app331359029#331359029#0(0"0(0#0#0"8604273376#358"    cd /Users/Edgar/Programming/github/EMB-Mobilised/EMB    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/Edgar/Programming/github/EMB-Mobilised/EMB/build/Debug-iphonesimulator/EMB.app0#
 
 CTouch /Users/rickwtj/Desktop/EMB-1/build/Debug-iphonesimulator/EMB.app
 s331050595.342907

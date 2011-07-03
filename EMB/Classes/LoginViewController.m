@@ -10,9 +10,23 @@
 #import "studentViewController.h"
 #import "EMBAppDelegate.h"
 #import "BoardsViewController.h"
+#import "ASIFormDataRequest.h"
 
 @implementation LoginViewController 
 @synthesize E,M,B,userID,passWord;
+
+- (IBAction)submitContactForm:(id)sender
+{
+	ASIFormDataRequest *request = [ASIFormDataRequest requestWithURL:[NSURL URLWithString:@"http://smb.chs.edu.sg/smb/hs_student"]];
+	[request setPostValue:@"4o316" forKey:@"userid"];
+	[request setPostValue:@"dreadzilla" forKey:@"password"];
+	[request setDelegate:self];
+	[request startAsynchronous];
+	
+} 
+
+
+		  
 
 -(IBAction)backgroundTap:(id)sender {
 	[userID resignFirstResponder];

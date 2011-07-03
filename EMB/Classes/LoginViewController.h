@@ -29,6 +29,6 @@
 -(IBAction)loginTouched:(id)sender;
 -(IBAction)backgroundTap:(id)sender;
 -(IBAction)textFieldDoneEditing: (id)sender;
-
+-(IBAction)submitAuthentication:(id)sender;
 
 @end
